@@ -596,5 +596,11 @@
         "type": "toggle",
         "img": "images/items/black_rock_launcher.png",
         "codes": "lake_house_black_rock_launcher_unlock"
+    },
+    {
+        "name": "TRAP - Reload Flashlight",
+        "type": "consumable",
+        "img": "images/items/flashlight_trap.png",
+        "codes": "reload_flashlight_trap"
     }
 ]
