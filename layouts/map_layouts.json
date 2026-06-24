@@ -3,6 +3,15 @@
         "type": "tabbed",
         "tabs": [
             {
+                "title": "Condensed",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "condensed_view"
+                    ]
+                }
+            },
+            {
                 "title": "Cauldron Lake",
                 "content": {
                     "type": "map",
@@ -133,15 +142,6 @@
                     "type": "map",
                     "maps": [
                         "LakeHouse"
-                    ]
-                }
-            },
-            {
-                "title": "Condensed",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "condensed_view"
                     ]
                 }
             }
