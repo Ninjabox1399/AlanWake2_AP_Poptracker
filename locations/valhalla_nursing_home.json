@@ -1,0 +1,423 @@
+[
+    {
+        "name": "Valhalla Nursing Home",
+        "children": [
+            {
+                "name": "Wellness Center Manuscript Page 1 Patient Room",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Wellness Center Manuscript Page 1 Patient Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "WellnessCenter",
+                        "x": 2078,
+                        "y": 1926
+                    }
+                ]
+            },
+            {
+                "name": "Wellness Center Manuscript Page 2 Examination Rooms",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Wellness Center Manuscript Page 2 Examination Rooms",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "WellnessCenter",
+                        "x": 1521,
+                        "y": 2028
+                    }
+                ]
+            },
+            {
+                "name": "Wellness Center Manuscript Page 3 Workshop",
+                "access_rules": [
+                    "door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Wellness Center Manuscript Page 3 Workshop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "WellnessCenter",
+                        "x": 2282,
+                        "y": 1154
+                    }
+                ]
+            },
+            {
+                "name": "Wellness Center Door Knob",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Wellness Center Door Knob",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "WellnessCenter",
+                        "x": 2005,
+                        "y": 1019
+                    }
+                ]
+            },
+            {
+                "name": "Wellness Center Hunting Rifle",
+                "access_rules": [
+                    "door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Wellness Center Hunting Rifle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "WellnessCenter",
+                        "x": 2414,
+                        "y": 1143
+                    }
+                ]
+            },
+            {
+                "name": "Wellness Center Deer Head 1 Workshop",
+                "access_rules": [
+                    "door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Wellness Center Deer Head 1 Workshop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "WellnessCenter",
+                        "x": 2586,
+                        "y": 1267
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Lunchbox 1 First Floor Office",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Lunchbox 1 First Floor Office",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 758,
+                        "y": 339
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Deer Head 1 Lounge",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Deer Head 1 Lounge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 2022,
+                        "y": 730
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Fuse",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Fuse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 1959,
+                        "y": 1977
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 1 Stairwell after Rose",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 1 Stairwell after Rose",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 1154,
+                        "y": 716
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 2 Basement Work Space",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 2 Basement Work Space",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 2559,
+                        "y": 1965
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 3 Basement Boiler Room",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 3 Basement Boiler Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 2271,
+                        "y": 2470
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 4 Basement Laundry Room",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 4 Basement Laundry Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 2070,
+                        "y": 2143
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 5 Gail's Room",
+                "access_rules": [
+                    "roses_keyfob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 5 Gail's Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 3579,
+                        "y": 532
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 6 Cynthia's Room",
+                "access_rules": [
+                    "roses_keyfob, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 6 Cynthia's Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 3379,
+                        "y": 309
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 7 Valhalla Nursing Home Arrival",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 7 Valhalla Nursing Home Arrival",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1276,
+                        "y": 627
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Rose Conversation",
+                "access_rules": [
+                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 8 Rose",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Valhalla Manor Rose's Keyfob",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 921,
+                        "y": 688
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 9 Valhalla Bridge after Cynthia",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 9 Valhalla Bridge after Cynthia",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1003,
+                        "y": 824
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Manuscript Page 10 Valhalla Pavillion after Cynthia",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Manuscript Page 10 Valhalla Pavillion after Cynthia",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 908,
+                        "y": 842
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Anger's Remorse Record",
+                "access_rules": [
+                    "roses_keyfob, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Anger's Remorse Record",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ValhallaManor",
+                        "x": 3356,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Manor Chapter Overlap",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Valhalla Manor Tool Cabinet Key",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Valhalla Manor Boltcutters",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Valhalla Manor Cynthia Weaver Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Valhalla Manor Chapter 5 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 963,
+                        "y": 784
+                    }
+                ]
+            }
+        ]
+    }
+]
+

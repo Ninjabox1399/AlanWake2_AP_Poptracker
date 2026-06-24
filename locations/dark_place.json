@@ -1,0 +1,471 @@
+[
+    {
+        "name": "Dark Place",
+        "children": [
+            {
+                "name": "Dark Place Phone Booth",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Subway Pass",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dark Place Room 665 Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2046,
+                        "y": 1858
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Double-Barelled Shotgun",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Double-Barelled Shotgun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 1559,
+                        "y": 1215
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Fix 1 Outside Studio",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Fix 1 Outside Studio",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 1138,
+                        "y": 2041
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Action 1 Draft Street Under Bridge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Action 1 Draft Street Under Bridge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2875,
+                        "y": 1700
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Fix 2 Alley after Casey",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Fix 2 Alley after Casey",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 511,
+                        "y": 1108
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Lamp 1 High-Line Station Behind Air Conditioner",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Lamp 1 High-Line Station Behind Air Conditioner",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3337,
+                        "y": 980
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of War 1 High-Line Station Scaffold near Police Car",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of War 1 High-Line Station Scaffold near Police Car",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3610,
+                        "y": 944
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Gun 1 High-Line Station near Police Car",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Gun 1 High-Line Station near Police Car",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3305,
+                        "y": 1462
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Aid 1 Alley Rooftop",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Aid 1 Alley Rooftop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 1075,
+                        "y": 1110
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Lamp 2 Water Tower",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Lamp 2 Water Tower",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 1221,
+                        "y": 701
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Gun 2 Alley Rooftop Under Stairs",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Gun 2 Alley Rooftop Under Stairs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 959,
+                        "y": 722
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Aid 2 Alley Rooftop High on Wall (Ch5)",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Aid 2 Alley Rooftop High on Wall (Ch5)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 1630,
+                        "y": 653
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Word of Aid 3 Tunnel Right of Poet's Cinema",
+                "access_rules": [
+                    "movie_ticket"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Word of Aid 3 Tunnel Right of Poet's Cinema",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3734,
+                        "y": 3399
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Manuscript Page Saga",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Manuscript Page Saga",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2224,
+                        "y": 1457
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 1 High-Line Station Casey Billboard 1",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 1 High-Line Station Casey Billboard 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3234,
+                        "y": 980
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 2 High-Line Station Casey Billboard 2",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 2 High-Line Station Casey Billboard 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3433,
+                        "y": 1391
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 3 Parliament Tower Lobby",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 3 Parliament Tower Lobby",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2378,
+                        "y": 2170
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 4 Alley Rooftop Casey Billboard 3",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 4 Alley Rooftop Casey Billboard 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 851,
+                        "y": 843
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 5 Alley Rooftop Casey Billboard 4",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 5 Alley Rooftop Casey Billboard 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 1205,
+                        "y": 1048
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 6 Ocean Ave Chapter 7",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 6 Ocean Ave Chapter 7",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 1816,
+                        "y": 1758
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 7 Outside Oceanview Hotel Chapter 5",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 7 Outside Oceanview Hotel Chapter 5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2037,
+                        "y": 904
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 8 Poet's Cinema Casey Billboard 5",
+                "access_rules": [
+                    "movie_ticket"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 8 Poet's Cinema Casey Billboard 5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3114,
+                        "y": 3047
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Echo 9 Poet's Cinema Casey Billboard 6",
+                "access_rules": [
+                    "movie_ticket"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Echo 9 Poet's Cinema Casey Billboard 6",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 3570,
+                        "y": 3275
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Saga Clicker and Bullet of Light",
+                "access_rules": [
+                    "alices_photographs, the_clicker"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Saga Clicker and Bullet of Light",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2381,
+                        "y": 1691
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place Saga Chapter 9 Completion",
+                "access_rules": [
+                    "alices_photographs, the_clicker, bullet_of_light"
+                ],
+                "sections": [
+                    {
+                        "name": "Dark Place Saga Chapter 9 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2382,
+                        "y": 1749
+                    }
+                ]
+            }
+        ]
+    }
+]
+

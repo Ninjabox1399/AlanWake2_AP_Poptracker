@@ -1,0 +1,274 @@
+[
+    {
+        "name": "Poet's Cinema",
+        "children": [
+            {
+                "name": "Poet's Cinema Word of Fix 1 Upstairs from Break Room",
+                "access_rules": [
+                    "movie_ticket"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Word of Fix 1 Upstairs from Break Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 1906,
+                        "y": 1239
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Word of Action 1 Behind Bathroom Right of Lobby",
+                "access_rules": [
+                    "movie_ticket"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Word of Action 1 Behind Bathroom Right of Lobby",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 3046,
+                        "y": 1509
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Word of Lamp 1 Rooftop Near Tim Breaker",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Word of Lamp 1 Rooftop Near Tim Breaker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 438,
+                        "y": 1684
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Word of Stuff 1 Rooftop Spotlights",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Word of Stuff 1 Rooftop Spotlights",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 450,
+                        "y": 616
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 1 Concession Stand Top Floor",
+                "access_rules": [
+                    "movie_ticket"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 1 Concession Stand Top Floor",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 2684,
+                        "y": 1256
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 2 Behind Concession Stand",
+                "access_rules": [
+                    "movie_ticket, progressive_plot_(cinema):1"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 2 Behind Concession Stand",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 2372,
+                        "y": 1615
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 3 Theatre Screen",
+                "access_rules": [
+                    "movie_ticket, progressive_plot_(cinema):2"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 3 Theatre Screen",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 2426,
+                        "y": 2581
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 4 Top of Screening Room in Light Shift",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):2"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 4 Top of Screening Room in Light Shift",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 2577,
+                        "y": 1570
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 5 Garage New York's Finest Scene",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 5 Garage New York's Finest Scene",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 3142,
+                        "y": 2269
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 6 Rooftop Cult of the Word Scene",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 6 Rooftop Cult of the Word Scene",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 1220,
+                        "y": 2065
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 7 Projector Room",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 7 Projector Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 1618,
+                        "y": 2270
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Echo 8 Concession Stand Post Chapter 8",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Echo 8 Concession Stand Post Chapter 8",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 2442,
+                        "y": 971
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Chapter 8 Completion",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Chapter 8 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 1627,
+                        "y": 2827
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema Knife",
+                "access_rules": [
+                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                ],
+                "sections": [
+                    {
+                        "name": "Poet's Cinema Knife",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "PoetsCinema",
+                        "x": 1595,
+                        "y": 1607
+                    }
+                ]
+            }
+        ]
+    }
+]
+

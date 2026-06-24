@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Oceanview Hotel",
+        "children": [
+            {
+                "name": "Oceanview Hotel Word of War 1 Room 224",
+                "access_rules": [
+                    "progressive_plot_(hotel):1, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Word of War 1 Room 224",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 2359,
+                        "y": 994
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Word of War 2 Second Floor Hallway",
+                "access_rules": [
+                    "progressive_plot_(hotel):1, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Word of War 2 Second Floor Hallway",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 2064,
+                        "y": 1526
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Word of Stuff 1 Ballroom",
+                "access_rules": [
+                    "progressive_plot_(hotel):1, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Word of Stuff 1 Ballroom",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 2013,
+                        "y": 2921
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Room 101 Key",
+                "access_rules": [
+                    "progressive_plot_(hotel):1, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Room 101 Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 1699,
+                        "y": 2884
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Room 104 Key",
+                "access_rules": [
+                    "progressive_plot_(hotel):1, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Room 104 Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 1008,
+                        "y": 2152
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Room 209 Key",
+                "access_rules": [
+                    "progressive_plot_(hotel):1, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Room 209 Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 2151,
+                        "y": 2054
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Echo 1 Hallway Outside Zane's Room",
+                "access_rules": [
+                    "room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Echo 1 Hallway Outside Zane's Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 1277,
+                        "y": 3168
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Echo 2 Behind Reception Counter",
+                "access_rules": [
+                    "room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Echo 2 Behind Reception Counter",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 638,
+                        "y": 3265
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Echo 3 Room 202",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(hotel):1, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Echo 3 Room 202",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 2802,
+                        "y": 1728
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Echo 4 Ballroom",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(hotel):2, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Echo 4 Ballroom",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 2015,
+                        "y": 3475
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Echo 5 First Floor Stairwell Devil Scene",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(hotel):3, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Echo 5 First Floor Stairwell Devil Scene",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 941,
+                        "y": 2500
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Echo 6 Stairwell Room 666",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(hotel):3, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Echo 6 Stairwell Room 666",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 811,
+                        "y": 2318
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Echo 7 Reception Climax Scene",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(hotel):4, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Echo 7 Reception Climax Scene",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 862,
+                        "y": 3357
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Chapter 5 Completion",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(hotel):4, room_104_key, room_665_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Chapter 5 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 1057,
+                        "y": 926
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel Movie Ticket",
+                "access_rules": ["room_665_key"],
+                "sections": [
+                    {
+                        "name": "Oceanview Hotel Movie Ticket",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "OceanviewHotel",
+                        "x": 1417,
+                        "y": 3168
+                    }
+                ]
+            }
+        ]
+    }
+]

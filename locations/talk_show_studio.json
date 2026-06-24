@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Talk Show Studio",
+        "children": [
+            {
+                "name": "Talk Show Studio Janitor's Key",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Talk Show Studio Janitor's Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "TalkShowStudio",
+                        "x": 2185,
+                        "y": 2709
+                    }
+                ]
+            },
+            {
+                "name": "Talk Show Studio Basement Shoebox",
+                "access_rules": [
+                    "janitors_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Talk Show Studio Angel Lamp",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Talk Show Studio Alice's Photographs",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "TalkShowStudio",
+                        "x": 1252,
+                        "y": 1627
+                    }
+                ]
+            },
+            {
+                "name": "Talk Show Studio Chapter Chapter Completions",
+                "access_rules": [
+                    "angel_lamp"
+                ],
+                "sections": [
+                    {
+                        "name": "Talk Show Studio Chapter 1 Completion",
+                        "item_count": 1,
+                        "access_rules":["janitors_key"]
+                    },
+                    {
+                        "name": "Talk Show Studio Chapter 7 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "TalkShowStudio",
+                        "x": 1404,
+                        "y": 1080
+                    }
+                ]
+            },
+            {
+                "name": "Talk Show Studio Flare Gun",
+                "access_rules": [
+                    "angel_lamp, progressive_verse_3"
+                ],
+                "sections": [
+                    {
+                        "name": "Talk Show Studio Flare Gun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "TalkShowStudio",
+                        "x": 3646,
+                        "y": 2112
+                    }
+                ]
+            },
+            {
+                "name": "GOAL - Talk Show Studio Chapter 4 Completion",
+                "access_rules": [
+                    "angel_lamp, progressive_verse_5"
+                ],
+                "sections": [
+                    {
+                        "name": "GOAL - Talk Show Studio Chapter 4 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "shape": "diamond",
+                        "map": "TalkShowStudio",
+                        "x": 3052,
+                        "y": 536
+                    }
+                ]
+            },
+            {
+                "name": "Talk Show Studio Echo 1 Jazz Section",
+                "access_rules": [
+                    "angel_lamp, progressive_verse_4"
+                ],
+                "sections": [
+                    {
+                        "name": "Talk Show Studio Echo 1 Jazz Section",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "TalkShowStudio",
+                        "x": 3576,
+                        "y": 2510
+                    }
+                ]
+            }
+        ]
+    }
+]

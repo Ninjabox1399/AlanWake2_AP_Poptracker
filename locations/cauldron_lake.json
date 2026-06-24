@@ -1,0 +1,774 @@
+[
+    {
+        "name": "Cauldron Lake",
+        "children": [
+            {
+                "name": "Cauldron Lake Lunchbox 1 Mortar Falls",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 1 Mortar Falls",
+                        "item_count": 1
+                        
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1741,
+                        "y": 398
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Lunchbox 2 Above General Store",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 2 Above General Store",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1948,
+                        "y": 648
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Lunchbox 3 SW murder site",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 3 SW murder site",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1465,
+                        "y": 1885
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Lunchbox 4 Witch's Hut",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 4 Witch's Hut",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1185,
+                        "y": 921
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Lunchbox 5 Shortcut Key",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 5 Shortcut Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 2190,
+                        "y": 1297
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Lunchbox 6 Witchfinders Station",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 6 Witchfinders Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 809,
+                        "y": 136
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Lunchbox 7 Upstream",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 7 Upstream",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1570,
+                        "y": 595
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Lunchbox 8 Rental Cabins",
+                "access_rules": [
+                    "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Lunchbox 8 Rental Cabins",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 2849,
+                        "y": 896
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nightingale's Heart",
+                "access_rules": [
+                    "cauldron_lake_fuse"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nightingale's Heart",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1933,
+                        "y": 1297
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Sawed Off Shotgun",
+                "access_rules": [
+                    "cauldron_lake_fuse"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Sawed Off Shotgun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1946,
+                        "y": 1360
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Inventory Upgrade (General Store)",
+                "access_rules": [
+                    "cauldron_lake_fuse"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Inventory Upgrade (General Store)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1931,
+                        "y": 1347
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Logan's Charm (Starting Check)",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Logan's Charm (Starting Check)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 2577,
+                        "y": 1341
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nursery Rhyme 1 Picnic Area",
+                "access_rules": [
+                    "cauldron_lake_fuse, crow_doll, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nursery Rhyme 1 Picnic Area",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 441,
+                        "y": 783
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nursery Rhyme 2 Witchfinders Station",
+                "access_rules": [
+                    "cauldron_lake_fuse, hero_doll, nightingales_heart, wolf_doll"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nursery Rhyme 2 Witchfinders Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 375,
+                        "y": 270
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nursery Rhyme 3 Private Cabin",
+                "access_rules": [
+                    "cauldron_lake_fuse, crow_doll, hero_doll, nightingales_heart, wolf_doll"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nursery Rhyme 3 Private Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 848,
+                        "y": 554
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nursery Rhyme 4 Rental Cabins",
+                "access_rules": [
+                    "boltcutters, crow_doll, hero_doll, monster_doll"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nursery Rhyme 4 Rental Cabins",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 2748,
+                        "y": 702
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Deer Head 1 Cabin S of Store",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Deer Head 1 Cabin S of Store",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1897,
+                        "y": 1683
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Deer Head 2 Witchfinders Station",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Deer Head 2 Witchfinders Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 481,
+                        "y": 210
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Deer Head 3 Rental Cabins",
+                "access_rules": [
+                    "boltcutters, crow_doll, hero_doll, monster_doll"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Deer Head 3 Rental Cabins",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 2622,
+                        "y": 742
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Cult Stash 1 Cabin S of Store",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Cult Stash 1 Cabin S of Store",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1829,
+                        "y": 1600
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Cult Stash 2 Beach after Nightingale",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Cult Stash 2 Beach after Nightingale",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 911,
+                        "y": 1989
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Cult Stash 3 Streamside Stash",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Cult Stash 3 Streamside Stash",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 891,
+                        "y": 1115
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Cult Stash 4 Private Cabin",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Cult Stash 4 Private Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 995,
+                        "y": 658
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Cult Stash 5 Rental Cabins",
+                "access_rules": [
+                    "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Cult Stash 5 Rental Cabins",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 2801,
+                        "y": 1034
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Pages Witch's Ladle",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 1 Witch's Ladle",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cauldron Lake Manuscript Page 2 Witch's Ladle (Revisit)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1257,
+                        "y": 1468
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 3 Witch's Hut",
+                "access_rules": [
+                    "cauldron_lake_fuse"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 3 Witch's Hut",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1407,
+                        "y": 962
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 4 General Store",
+                "access_rules": [
+                    "cauldron_lake_fuse"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 4 General Store",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1945,
+                        "y": 1328
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 5 Overlap Loop 2",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 5 Overlap Loop 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1166,
+                        "y": 1653
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 6 Overlap Loop 3",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 6 Overlap Loop 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1204,
+                        "y": 1698
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 7 Path after Nightingale",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 7 Path after Nightingale",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 933,
+                        "y": 1665
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 8 Table near Streamside Stash",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 8 Table near Streamside Stash",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 935,
+                        "y": 1121
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 9 Private Cabin",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 9 Private Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 860,
+                        "y": 631
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 10 Witchfinders Station",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 10 Witchfinders Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 544,
+                        "y": 249
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Manuscript Page 11 Rental Cabins",
+                "access_rules": [
+                    "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Manuscript Page 11 Rental Cabins",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 2730,
+                        "y": 1067
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Fuse",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Fuse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1173,
+                        "y": 970
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Overlap",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nightingale Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cauldron Lake Chapter 2 Completion",
+                        "item_count": 1
+                    }
+                    
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 326,
+                        "y": 1544
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Chapter 0 Completion",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Chapter 0 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 1901,
+                        "y": 1477
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Chapter 7 Completion",
+                "access_rules": [
+                    "the_clicker"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Chapter 7 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 243,
+                        "y": 1435
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nursery Rhyme Crow Doll - Picnic Area",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nursery Rhyme Crow Doll - Picnic Area",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 401,
+                        "y": 780
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nursery Rhyme Hero Doll - Witchfinders Station",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nursery Rhyme Hero Doll - Witchfinders Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 400,
+                        "y": 195
+                    }
+                ]
+            },
+            {
+                "name": "Cauldron Lake Nursery Rhyme Wolf Doll - Witchfinders Station",
+                "access_rules": [
+                    "cauldron_lake_fuse, nightingales_heart"
+                ],
+                "sections": [
+                    {
+                        "name": "Cauldron Lake Nursery Rhyme Wolf Doll - Witchfinders Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CauldronLake",
+                        "x": 411,
+                        "y": 176
+                    }
+                ]
+            }
+        ]
+    }
+]

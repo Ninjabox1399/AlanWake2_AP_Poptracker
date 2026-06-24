@@ -1,0 +1,235 @@
+{
+    "weapons_and_upgrades": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 50,
+        "item_margin": "1,1",
+        "rows": [
+            [
+                "sawed_off_shotgun",
+                "hunting_crossbow",
+                "hunting_rifle",
+                "pump-action_shotgun",
+                "progressive_manuscript_fragments_(x10)",
+                "flare_gun",
+                "double-barreled_shotgun",
+                "progressive_word_of_power",
+                "lake_house_shotgun_unlock",
+                "lake_house_black_rock_launcher_unlock"
+            ]
+        ]
+    },
+    "item_grid_saga":{
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 60,
+                "item_margin": "1,1",
+                "rows": [
+                    [
+                        "cauldron_lake_fuse",
+                        "nightingales_heart",
+                        "watery_location_unlock",
+                        "coffee_world_entrance_token",
+                        "screwdriver",
+                        "trailer_park_key",
+                        "watery_fuse",
+                        "parade_float_completion_token"
+                    ],
+                    [
+                        "west_bright_falls_access",
+                        "valhalla_nursing_home_appointment",
+                        "door_knob",
+                        "roses_keyfob",
+                        "valhalla_manor_fuse",
+                        "angers_remorse_record",
+                        "tool_cabinet_key",
+                        "boltcutters"
+                    ]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 50,
+                "item_margin": "1,1",
+                "rows": [
+                    [
+                        "sheriffs_station_key",
+                        "sheriffs_station_fuse",
+                        "the_clicker",
+                        "bullet_of_light"
+                    ]
+                ]
+            }
+        ]
+    },
+
+    "item_grid_dlc":{
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 50,
+                "item_margin": "1,1",
+                "rows": [
+                    [
+                        "night_springs_episode_1_token",
+                        "night_springs_episode_2_token",
+                        "night_springs_ep_2_ferris_wheel_control_key",
+                        "night_springs_ep_2_orientation_video_tape",
+                        "night_springs_ep_2_warehouse_office_key",
+                        "night_springs_episode_3_token",
+                        "night_springs_polyhedron_reality_shifter",
+                        "night_springs_progressive_sen"
+                
+                    ]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 50,
+                "item_margin": "1,1",
+                "rows": [
+                    [
+                        "lake_house_estevezs_id_card",
+                        "lake_house_progressive_keycard"
+                    ]
+                ]
+            }
+        ]
+    },
+
+    "04_nursery_rhymes": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "1,1",
+        "rows": [
+            [
+                "crow_doll",
+                "hero_doll",
+                "wolf_doll",
+                "deer_doll",
+                "moose_doll",
+                "wise_elder_doll",
+                "bear_doll",
+                "mother_doll",
+                "child_doll",
+                "trickster_doll",
+                "maiden_doll",
+                "monster_doll"
+            ]
+        ]
+    },
+    "saga_charms": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 35,
+        "item_margin": "0,0",
+        "rows": [
+            [
+                "logans_charm",
+                "hammer_charm",
+                "coffee_mug_charm",
+                "kalevala_knights_charm",
+                "deer_charm",
+                "coffee_world_token_charm",
+                "lighthouse_charm",
+                "mr_drippy_charm",
+                "fbc_charm",
+                "lantern_charm",
+                "valhalla_nursing_home_charm",
+                "anchor_charm",
+                "deerfest_charm",
+                "mayor_setter_charm"
+            ]
+        ]
+    },
+    "item_grid_alan":{
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 60,
+                "item_margin": "1,1",
+                "rows": [
+                    ["janitors_key", "angel_lamp", "subway_pass", "progressive_plot_(subway)", "memory_card", "room_665_key"],
+                    ["room_104_key", "progressive_plot_(hotel)", "movie_ticket", "progressive_plot_(cinema)", "alices_photographs", "return_by_alan_wake"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_size": 120,
+                "item_margin": "1,1",
+                "rows": [
+                    ["progressive_verse"]
+                ]
+            }
+        ]
+    },
+
+    "tracker_items": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "weapons_and_upgrades"
+            }
+        ]
+    },
+    "tracker_key_items_saga": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "saga_key_items"
+            }
+        ]
+    },
+     "tracker_key_items_dlc": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "dlc_key_items"
+            }
+        ]
+    },
+    "tracker_misc_items": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "04_nursery_rhymes"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "saga_charms"
+            }
+        ]
+    }
+}

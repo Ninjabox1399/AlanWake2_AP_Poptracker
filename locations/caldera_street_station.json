@@ -1,0 +1,369 @@
+[
+    {
+        "name": "Caldera Street Station",
+        "children": [
+            {
+                "name": "Caldera Street Station Word of Gun 1 Platform Entrance",
+                "access_rules": [
+                    "angel_lamp, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Gun 1 Platform Entrance",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 3664,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Aid 1 Main Tunnel",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Aid 1 Main Tunnel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 1584,
+                        "y": 747
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Lamp 1 West Main Tunnel Side Room",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Lamp 1 West Main Tunnel Side Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 713,
+                        "y": 675
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of War 1 Top of Abandoned Station",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of War 1 Top of Abandoned Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 1903,
+                        "y": 1202
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Action 1 Behind Breakable Wall",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Action 1 Behind Breakable Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 1641,
+                        "y": 2029
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Fix 1 West Wall Abandoned Station",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Fix 1 West Wall Abandoned Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 1301,
+                        "y": 1980
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Lamp 2 West Shrine St",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Lamp 2 West Shrine St",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 2337,
+                        "y": 1893
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Gun 2 Shrine St",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Gun 2 Shrine St",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 3054,
+                        "y": 1826
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Action 2 Shrine St",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Action 2 Shrine St",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 2734,
+                        "y": 1531
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Word of Fix 2 Main Tunnel Shortcut from Shrine St",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Word of Fix 2 Main Tunnel Shortcut from Shrine St",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 2102,
+                        "y": 978
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 1 Platform Entrance",
+                "access_rules": [
+                    "angel_lamp, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 1 Platform Entrance",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 3132,
+                        "y": 388
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 2 Collapsed Tunnel FBI Agent",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 2 Collapsed Tunnel FBI Agent",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 722,
+                        "y": 955
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 3 Main Tunnel after Light Shift",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 3 Main Tunnel after Light Shift",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 464,
+                        "y": 747
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 4 Abandoned Station",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):2, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 4 Abandoned Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 1645,
+                        "y": 1799
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 5 Shrine St Station",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 5 Shrine St Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 3759,
+                        "y": 1848
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 6 North Shrine St Station",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 6 North Shrine St Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 2910,
+                        "y": 1269
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 7 Collapsed Tunnel Torchbearers",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 7 Collapsed Tunnel Torchbearers",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 638,
+                        "y": 995
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Echo 8 Collapsed Tunnel Summoning Ritual",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Echo 8 Collapsed Tunnel Summoning Ritual",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 372,
+                        "y": 1111
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station Chapter 2 Completion",
+                "access_rules": [
+                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                ],
+                "sections": [
+                    {
+                        "name": "Caldera Street Station Chapter 2 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "CalderaStreetStation",
+                        "x": 474,
+                        "y": 1069
+                    }
+                ]
+            }
+        ]
+    }
+]
+

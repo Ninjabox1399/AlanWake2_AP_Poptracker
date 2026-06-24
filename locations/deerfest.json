@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Deerfest",
+        "children": [
+            {
+                "name": "Deerfest Return Book Location",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Deerfest Return Book Location",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deerfest",
+                        "x": 1102,
+                        "y": 824
+                    }
+                ]
+            },
+            {
+                "name": "Deerfest Chapter 8 Completion",
+                "access_rules": [
+                    "return_by_alan_wake, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Deerfest Chapter 8 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deerfest",
+                        "x": 552,
+                        "y": 1025
+                    }
+                ]
+            },
+            {
+                "name": "Deerfest Echo Writers Room",
+                "access_rules": [
+                    "return_by_alan_wake, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Deerfest Echo Writers Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deerfest",
+                        "x": 435,
+                        "y": 1025
+                    }
+                ]
+            }
+        ]
+    }
+]

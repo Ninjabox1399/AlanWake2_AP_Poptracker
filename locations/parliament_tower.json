@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Parliament Tower",
+        "children": [
+            {
+                "name": "Parliament Tower Checks",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Parliament Tower Memory Card",
+                        "item_count": 1,
+                        "access_rules": []
+                    },
+                    {
+                        "name": "Parliament Tower Chapter 3 Completion",
+                        "item_count": 1,
+                        "access_rules": ["memory_card"]
+                    },
+                    {
+                        "name": "Parliament Tower Chapter 6 Completion",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Parliament Tower Chapter 9 Completion",
+                        "item_count": 1,
+                        "access_rules": ["alices_photographs"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DarkPlace",
+                        "x": 2374,
+                        "y": 2372
+                    }
+                ]
+            }
+        ]
+    }
+]
+

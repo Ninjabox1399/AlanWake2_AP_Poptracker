@@ -1,0 +1,23 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "v_alignment": "top",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_width": 80,
+                "item_height": 80,
+                "v_alignment": "center",
+                "h_alignment": "center",
+                "dropshadow": false,
+                "margin": 10,
+                "rows": [
+                    [
+                        "Include_DLC"
+                    ]
+                ]
+            }
+        ]
+    }
+}

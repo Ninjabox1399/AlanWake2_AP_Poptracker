@@ -1,0 +1,283 @@
+[
+    {
+        "name": "Lake House",
+        "children": [
+            {
+                "name": "Lake House Shotgun",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Shotgun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 1249,
+                        "y": 1581
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Inventory Room",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard_2"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Black Rock Launcher",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lake House Security Clearance 03 Keycard",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lake House Manuscript Page 04 - Level 1 Inventory Management",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 948,
+                        "y": 895
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Security Clearance 01 Keycard",
+                "access_rules": [
+                    "lake_house_estevezs_id_card"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Security Clearance 01 Keycard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 458,
+                        "y": 482
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Security Clearance 02 Keycard",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Security Clearance 02 Keycard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 1675,
+                        "y": 641
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Manuscript Pages- Level 3 ATD Office",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Manuscript Page 01 - Level 3 ATD Office",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lake House Manuscript Page 02 - Level 3 ATD Office",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 1070,
+                        "y": 1515
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Manuscript Page 03 - Level 2 Cell Floor",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Manuscript Page 03 - Level 2 Cell Floor",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 2162,
+                        "y": 567
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Manuscript Page 05 - Level 3 Bottom Right Office",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard_2"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Manuscript Page 05 - Level 3 Bottom Right Office",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 716,
+                        "y": 1829
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Manuscript Page 06 - Level 4 Living Painting",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard_3"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Manuscript Page 06 - Level 4 Living Painting",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 3154,
+                        "y": 1586
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Manuscript Page 07 - Level 4 Shifting Maze (M725)",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard_3"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Manuscript Page 07 - Level 4 Shifting Maze (M725)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 2618,
+                        "y": 1807
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Manuscript Page 08 - Level 4 Diana's Desk",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard_3"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Manuscript Page 08 - Level 4 Diana's Desk",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 2089,
+                        "y": 1635
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Dylan Cutscene",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard_3"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Dylan Cutscene",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 2085,
+                        "y": 1537
+                    }
+                ]
+            },
+            {
+                "name": "Lake House Completion",
+                "access_rules": [
+                    "lake_house_estevezs_id_card, lake_house_progressive_keycard_3"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Lake House Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LakeHouse",
+                        "x": 3554,
+                        "y": 1585
+                    }
+                ]
+            }
+        ]
+    }
+]

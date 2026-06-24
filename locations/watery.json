@@ -1,0 +1,963 @@
+[
+    {
+        "name": "Watery",
+        "children": [
+                {
+                "name": "Watery Lunchbox 1 Radio Tower",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Lunchbox 1 Radio Tower",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2305,
+                        "y": 85
+                    }
+                ]
+            },
+            {
+                "name": "Watery Lunchbox 2 East of Ranger Cabin",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Lunchbox 2 East of Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1568,
+                        "y": 511
+                    }
+                ]
+            },
+            {
+                "name": "Watery Lunchbox 3 Coffee World Main Gates",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Lunchbox 3 Coffee World Main Gates",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1645,
+                        "y": 2234
+                    }
+                ]
+            },
+            {
+                "name": "Watery Lunchbox 4 Path to Lighthouse",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Lunchbox 4 Path to Lighthouse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1796,
+                        "y": 3137
+                    }
+                ]
+            },
+            {
+                "name": "Watery Lunchbox 5 Trailer Park",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Lunchbox 5 Trailer Park",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 431,
+                        "y": 2826
+                    }
+                ]
+            },
+            {
+                "name": "Watery Lunchbox 6 Kalevala Knights Workshop",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Lunchbox 6 Kalevala Knights Workshop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 804,
+                        "y": 1190
+                    }
+                ]
+            },
+            {
+                "name": "Watery Hunting Crossbow (Cult Stash)",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Hunting Crossbow (Cult Stash)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2776,
+                        "y": 903
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 1 North of Town",
+                "access_rules": [
+                    "moose_doll, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 1 North of Town",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2980,
+                        "y": 1540
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 2 Radio Tower",
+                "access_rules": [
+                    "deer_doll, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 2 Radio Tower",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2771,
+                        "y": 599
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 3 Lighthouse",
+                "access_rules": [
+                    "coffee_world_entrance_token, trickster_doll, watery_location_unlock, wise_elder_doll"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 3 Lighthouse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2112,
+                        "y": 3442
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 4 Ranger Cabin",
+                "access_rules": [
+                    "bear_doll, coffee_world_entrance_token, maiden_doll, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 4 Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1213,
+                        "y": 298
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 5 Latte Lagoon",
+                "access_rules": [
+                    "coffee_world_entrance_token, moose_doll, parade_float_completion_token, screwdriver, trailer_park_key, trickster_doll, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 5 Latte Lagoon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2082,
+                        "y": 1143
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 6 Trailer Park",
+                "access_rules": [
+                    "boltcutters, coffee_world_entrance_token, deer_doll, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock, wise_elder_doll"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 6 Trailer Park",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 824,
+                        "y": 3515
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 7 Trailer Park Pier",
+                "access_rules": [
+                    "bear_doll, coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock, wise_elder_doll"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 7 Trailer Park Pier",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 473,
+                        "y": 3959
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme 8 Town",
+                "access_rules": [
+                    "maiden_doll, screwdriver, trickster_doll, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme 8 Town",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3453,
+                        "y": 2300
+                    }
+                ]
+            },
+            {
+                "name": "Watery Screwdriver",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Screwdriver",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2236,
+                        "y": 2066
+                    }
+                ]
+            },
+            {
+                "name": "Watery Trailer Park Key",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Trailer Park Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1359,
+                        "y": 1268
+                    }
+                ]
+            },
+            {
+                "name": "Watery Fuse",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Fuse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 579,
+                        "y": 1310
+                    }
+                ]
+            },
+            {
+                "name": "Watery Overlap",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Thornton and Mulligan Defeated",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Watery Clicker",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Watery Chapter 3 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1156,
+                        "y": 1575
+                    }
+                ]
+            },
+            {
+                "name": "Watery Parade Float Completion",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Parade Float Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 935,
+                        "y": 1486
+                    }
+                ]
+            },
+            {
+                "name": "Watery Deer Head 1 Town Hall",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Deer Head 1 Town Hall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3516,
+                        "y": 2437
+                    }
+                ]
+            },
+            {
+                "name": "Watery Deer Head 2 Trailer Park",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Deer Head 2 Trailer Park",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 742,
+                        "y": 3190
+                    }
+                ]
+            },
+            {
+                "name": "Watery Deer Head 3 Kalevala Workshop",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Deer Head 3 Kalevala Workshop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 504,
+                        "y": 1504
+                    }
+                ]
+            },
+            {
+                "name": "Watery Deer Head 4 Ranger Cabin",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Deer Head 4 Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1236,
+                        "y": 448
+                    }
+                ]
+            },
+            {
+                "name": "Watery Cult Stash 1 East of Hunting Shack",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Cult Stash 1 East of Hunting Shack",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3512,
+                        "y": 1203
+                    }
+                ]
+            },
+            {
+                "name": "Watery Cult Stash 2 Slow Roaster",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Cult Stash 2 Slow Roaster",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1601,
+                        "y": 1404
+                    }
+                ]
+            },
+            {
+                "name": "Watery Cult Stash 3 Huotari Well",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Cult Stash 3 Huotari Well",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1304,
+                        "y": 1539
+                    }
+                ]
+            },
+            {
+                "name": "Watery Cult Stash 4 Path to Lighthouse",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Cult Stash 4 Path to Lighthouse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1584,
+                        "y": 3163
+                    }
+                ]
+            },
+            {
+                "name": "Watery Cult Stash 6 Trailer Park",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Cult Stash 6 Trailer Park",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 346,
+                        "y": 3453
+                    }
+                ]
+            },
+            {
+                "name": "Watery Cult Stash 7 Town",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Cult Stash 7 Town",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3797,
+                        "y": 2912
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 1 East of Hunting Shack",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 1 East of Hunting Shack",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3536,
+                        "y": 1133
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 2 Hunting Shack",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 2 Hunting Shack",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2783,
+                        "y": 1026
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 3 Gift Shop Break Room",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 3 Gift Shop Break Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1333,
+                        "y": 936
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 4 Gift Shop",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 4 Gift Shop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1340,
+                        "y": 1337
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 5 Kalevala Workshop Proper",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 5 Kalevala Workshop Proper",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 675,
+                        "y": 1593
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 6 Kalevala Workshop Basement",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 6 Kalevala Workshop Basement",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 525,
+                        "y": 1450
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 7 Parade Float",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 7 Parade Float",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 901,
+                        "y": 1547
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 8 Espresso Express",
+                "access_rules": [
+                    "coffee_world_entrance_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 8 Espresso Express",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1151,
+                        "y": 1896
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 9 Overlap Loop 1",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 9 Overlap Loop 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1240,
+                        "y": 1591
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 10 Overlap Loop 2",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 10 Overlap Loop 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1281,
+                        "y": 1628
+                    }
+                ]
+            },
+            {
+                "name": "Watery Manuscript Page 11 Town",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Manuscript Page 11 Town",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3045,
+                        "y": 3182
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme Dolls North of Town",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme Deer Doll - North of Town",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Watery Nursery Rhyme Moose Doll - North of Town",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 2944,
+                        "y": 1556
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme Dolls - Lighthouse",
+                "access_rules": [
+                    "coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme Wise Elder Doll - Lighthouse",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Watery Nursery Rhyme Mother Doll - Lighthouse",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Watery Nursery Rhyme Trickster Doll - Lighthouse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1986,
+                        "y": 3482
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme Bear Doll - Trailer Park or Ranger Cabin",
+                "access_rules": [
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme Bear Doll - Trailer Park or Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 394,
+                        "y": 3687
+                    },
+                    {
+                        "map": "Watery",
+                        "x": 1233,
+                        "y": 353
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme Maiden Doll - Ranger Cabin or Downtown Watery",
+                "access_rules": [
+                    "screwdriver, watery_location_unlock",
+                    "watery_fuse, screwdriver, trailer_park_key, parade_float_completion_token, coffee_world_entrance_token, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme Maiden Doll - Ranger Cabin or Downtown Watery",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3659,
+                        "y": 2299
+                    },
+                    {
+                        "map": "Watery",
+                        "x": 1218,
+                        "y": 450
+                    }
+                ]
+            },
+            {
+                "name": "Watery Nursery Rhyme Monster Doll - Ranger Cabin or Cauldron Lake Rental Cabins or Bright Falls Beach",
+                "access_rules": [
+                    "boltcutters",
+                    "coffee_world_entrance_token, parade_float_completion_token, screwdriver, trailer_park_key, watery_fuse, watery_location_unlock",
+                    "valhalla_manor_fuse, roses_keyfob, angers_remorse_record, tool_cabinet_key, boltcutters, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Nursery Rhyme Monster Doll - Ranger Cabin or Cauldron Lake Rental Cabins or Bright Falls Beach",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 1187,
+                        "y": 394
+                    },
+                    {
+                        "map": "BrightFalls",
+                        "x": 2011,
+                        "y": 1339
+                    },
+                    {
+                        "map": "CauldronLake",
+                        "x": 2783,
+                        "y": 673
+                    }
+                ]
+            },
+            {
+                "name": "Watery Mayor Setter Charm - Ch5",
+                "access_rules": [
+                    "watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Mayor Setter Charm - Ch5",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 3475,
+                        "y": 2510
+                    }
+                ]
+            },
+            {
+                "name": "Watery Cult Stash 5 Behind Kalevala Workshop",
+                "access_rules": [
+                    "boltcutters, watery_location_unlock"
+                ],
+                "sections": [
+                    {
+                        "name": "Watery Cult Stash 5 Behind Kalevala Workshop",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Watery",
+                        "x": 477,
+                        "y": 1416
+                    }
+                ]
+            }
+        ]
+        
+    }
+]

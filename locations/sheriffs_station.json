@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Sheriff's Station",
+        "children": [
+            {
+                "name": "Sheriff's Station Cult Stash",
+                "access_rules": [
+                    "boltcutters, sheriffs_station_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Cult Stash",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 1739,
+                        "y": 1451
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Key",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 1893,
+                        "y": 273
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Pump-Action Shotgun",
+                "access_rules": [
+                    "sheriffs_station_key, the_clicker"
+                ],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Pump-Action Shotgun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 883,
+                        "y": 468
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Fuse",
+                "access_rules": [
+                    "sheriffs_station_key"
+                ],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Fuse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 1912,
+                        "y": 3393
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Manuscript Page 1 Nightingale",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Manuscript Page 1 Nightingale",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 1779,
+                        "y": 3647
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Manuscript Page 2 Autopsy Room",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Manuscript Page 2 Autopsy Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 1956,
+                        "y": 3609
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Manuscript Page 3 Prison Cell",
+                "access_rules": [
+                    "sheriffs_station_fuse, sheriffs_station_key, the_clicker"
+                ],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Manuscript Page 3 Prison Cell",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 760,
+                        "y": 625
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Chapter 6 Completion",
+                "access_rules": [
+                    "sheriffs_station_fuse, sheriffs_station_key, the_clicker"
+                ],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Chapter 6 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 3415,
+                        "y": 593
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station Chapter 1 Completion",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Sheriff's Station Chapter 1 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "SheriffsStation",
+                        "x": 1776,
+                        "y": 3402
+                    }
+                ]
+            }
+        ]
+    }
+]

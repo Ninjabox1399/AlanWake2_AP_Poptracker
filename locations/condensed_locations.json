@@ -1,0 +1,1059 @@
+[
+    {
+        "name": "Condensed Locations",
+        "children": [
+            {
+                "name": "Cauldron Lake",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Logan's Charm (Starting Check)/Cauldron Lake Logan's Charm (Starting Check)"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 1 Mortar Falls/Cauldron Lake Lunchbox 1 Mortar Falls"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 2 Above General Store/Cauldron Lake Lunchbox 2 Above General Store"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 3 SW murder site/Cauldron Lake Lunchbox 3 SW murder site"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 4 Witch's Hut/Cauldron Lake Lunchbox 4 Witch's Hut"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 5 Shortcut Key/Cauldron Lake Lunchbox 5 Shortcut Key"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 6 Witchfinders Station/Cauldron Lake Lunchbox 6 Witchfinders Station"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 7 Upstream/Cauldron Lake Lunchbox 7 Upstream"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Lunchbox 8 Rental Cabins/Cauldron Lake Lunchbox 8 Rental Cabins"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nightingale's Heart/Cauldron Lake Nightingale's Heart"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Sawed Off Shotgun/Cauldron Lake Sawed Off Shotgun"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Inventory Upgrade (General Store)/Cauldron Lake Inventory Upgrade (General Store)"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nursery Rhyme 1 Picnic Area/Cauldron Lake Nursery Rhyme 1 Picnic Area"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nursery Rhyme 2 Witchfinders Station/Cauldron Lake Nursery Rhyme 2 Witchfinders Station"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nursery Rhyme 3 Private Cabin/Cauldron Lake Nursery Rhyme 3 Private Cabin"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nursery Rhyme 4 Rental Cabins/Cauldron Lake Nursery Rhyme 4 Rental Cabins"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Deer Head 1 Cabin S of Store/Cauldron Lake Deer Head 1 Cabin S of Store"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Deer Head 2 Witchfinders Station/Cauldron Lake Deer Head 2 Witchfinders Station"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Deer Head 3 Rental Cabins/Cauldron Lake Deer Head 3 Rental Cabins"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Cult Stash 1 Cabin S of Store/Cauldron Lake Cult Stash 1 Cabin S of Store"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Cult Stash 2 Beach after Nightingale/Cauldron Lake Cult Stash 2 Beach after Nightingale"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Cult Stash 3 Streamside Stash/Cauldron Lake Cult Stash 3 Streamside Stash"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Cult Stash 4 Private Cabin/Cauldron Lake Cult Stash 4 Private Cabin"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Cult Stash 5 Rental Cabins/Cauldron Lake Cult Stash 5 Rental Cabins"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Pages Witch's Ladle/Cauldron Lake Manuscript Page 1 Witch's Ladle"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Pages Witch's Ladle/Cauldron Lake Manuscript Page 2 Witch's Ladle (Revisit)"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 3 Witch's Hut/Cauldron Lake Manuscript Page 3 Witch's Hut"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 4 General Store/Cauldron Lake Manuscript Page 4 General Store"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 5 Overlap Loop 2/Cauldron Lake Manuscript Page 5 Overlap Loop 2"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 6 Overlap Loop 3/Cauldron Lake Manuscript Page 6 Overlap Loop 3"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 7 Path after Nightingale/Cauldron Lake Manuscript Page 7 Path after Nightingale"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 8 Table near Streamside Stash/Cauldron Lake Manuscript Page 8 Table near Streamside Stash"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 9 Private Cabin/Cauldron Lake Manuscript Page 9 Private Cabin"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 10 Witchfinders Station/Cauldron Lake Manuscript Page 10 Witchfinders Station"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Manuscript Page 11 Rental Cabins/Cauldron Lake Manuscript Page 11 Rental Cabins"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Fuse/Cauldron Lake Fuse"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Overlap/Cauldron Lake Chapter 2 Completion"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Chapter 0 Completion/Cauldron Lake Chapter 0 Completion"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Chapter 7 Completion/Cauldron Lake Chapter 7 Completion"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Overlap/Cauldron Lake Nightingale Defeated"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nursery Rhyme Crow Doll - Picnic Area/Cauldron Lake Nursery Rhyme Crow Doll - Picnic Area"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nursery Rhyme Hero Doll - Witchfinders Station/Cauldron Lake Nursery Rhyme Hero Doll - Witchfinders Station"
+                    },
+                    {
+                        "ref": "Cauldron Lake/Cauldron Lake Nursery Rhyme Wolf Doll - Witchfinders Station/Cauldron Lake Nursery Rhyme Wolf Doll - Witchfinders Station"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 1035,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "Sheriff's Station",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Cult Stash/Sheriff's Station Cult Stash"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Key/Sheriff's Station Key"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Pump-Action Shotgun/Sheriff's Station Pump-Action Shotgun"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Fuse/Sheriff's Station Fuse"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Manuscript Page 1 Nightingale/Sheriff's Station Manuscript Page 1 Nightingale"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Manuscript Page 2 Autopsy Room/Sheriff's Station Manuscript Page 2 Autopsy Room"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Manuscript Page 3 Prison Cell/Sheriff's Station Manuscript Page 3 Prison Cell"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Chapter 6 Completion/Sheriff's Station Chapter 6 Completion"
+                    },
+                    {
+                        "ref": "Sheriff's Station/Sheriff's Station Chapter 1 Completion/Sheriff's Station Chapter 1 Completion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 1790,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Bright Falls/Bright Falls Lunchbox 1 Founders' Park/Bright Falls Lunchbox 1 Founders' Park"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Lunchbox 2 Hill West of Cult Stash/Bright Falls Lunchbox 2 Hill West of Cult Stash"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Lunchbox 3 North of Ranger Cabin/Bright Falls Lunchbox 3 North of Ranger Cabin"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Lunchbox 4 SW Valhalla Nursing Home/Bright Falls Lunchbox 4 SW Valhalla Nursing Home"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Lunchbox 5 Beach near Rhyme spot/Bright Falls Lunchbox 5 Beach near Rhyme spot"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Lunchbox 6 Boatyard/Bright Falls Lunchbox 6 Boatyard"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Nursery Rhyme 1 W of Bunker Woods/Bright Falls Nursery Rhyme 1 W of Bunker Woods"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Nursery Rhyme 2 Ranger Cabin/Bright Falls Nursery Rhyme 2 Ranger Cabin"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Nursery Rhyme 3 Beach NE Ranger cabin/Bright Falls Nursery Rhyme 3 Beach NE Ranger cabin"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Nursery Rhyme 4 Billie's Boatyard/Bright Falls Nursery Rhyme 4 Billie's Boatyard"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Deer Head 1 Diner/Bright Falls Deer Head 1 Diner"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Deer Head 2 FBI Office/Bright Falls Deer Head 2 FBI Office"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Deer Head 3 Ranger Cabin/Bright Falls Deer Head 3 Ranger Cabin"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 1 FBI Field Office/Bright Falls Cult Stash 1 FBI Field Office"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 2 Behind Diner/Bright Falls Cult Stash 2 Behind Diner"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 3 Pier/Bright Falls Cult Stash 3 Pier"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 4 W of Bunker Woods/Bright Falls Cult Stash 4 W of Bunker Woods"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 5 South of Bunker Woods Break Room/Bright Falls Cult Stash 5 South of Bunker Woods Break Room"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 6 SW Valhalla Nursing Home/Bright Falls Cult Stash 6 SW Valhalla Nursing Home"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 7 W of Ranger Cabin (Far)/Bright Falls Cult Stash 7 W of Ranger Cabin (Far)"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Cult Stash 8 W of Ranger Cabin (Close)/Bright Falls Cult Stash 8 W of Ranger Cabin (Close)"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 1 FBI Office (Given at Ch3 Start)/Bright Falls Manuscript Page 1 FBI Office (Given at Ch3 Start)"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 2 Lodge Room (Ch3)/Bright Falls Manuscript Page 2 Lodge Room (Ch3)"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 3 Lodge Room (Ch3)/Bright Falls Manuscript Page 3 Lodge Room (Ch3)"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 4 Outside FBI Office (Ch6)/Bright Falls Manuscript Page 4 Outside FBI Office (Ch6)"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 5 Bunker Woods Break Room/Bright Falls Manuscript Page 5 Bunker Woods Break Room"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 6 SW of Valhalla Nursing Home Near Lunchbox/Bright Falls Manuscript Page 6 SW of Valhalla Nursing Home Near Lunchbox"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 7 Lower Bunker Woods Break Room/Bright Falls Manuscript Page 7 Lower Bunker Woods Break Room"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 8 West of Ranger Cabin/Bright Falls Manuscript Page 8 West of Ranger Cabin"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Manuscript Page 9 Billie's Boat Yard/Bright Falls Manuscript Page 9 Billie's Boat Yard"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Chapter 4 Completion/Bright Falls Chapter 4 Completion"
+                    },
+                    {
+                        "ref": "Bright Falls/Bright Falls Nursery Rhyme Child Doll - Bunker Woods/Bright Falls Nursery Rhyme Child Doll - Bunker Woods"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 2084,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "Watery",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Watery/Watery Lunchbox 1 Radio Tower/Watery Lunchbox 1 Radio Tower"
+                    },
+                    {
+                        "ref": "Watery/Watery Lunchbox 2 East of Ranger Cabin/Watery Lunchbox 2 East of Ranger Cabin"
+                    },
+                    {
+                        "ref": "Watery/Watery Lunchbox 3 Coffee World Main Gates/Watery Lunchbox 3 Coffee World Main Gates"
+                    },
+                    {
+                        "ref": "Watery/Watery Lunchbox 4 Path to Lighthouse/Watery Lunchbox 4 Path to Lighthouse"
+                    },
+                    {
+                        "ref": "Watery/Watery Lunchbox 5 Trailer Park/Watery Lunchbox 5 Trailer Park"
+                    },
+                    {
+                        "ref": "Watery/Watery Lunchbox 6 Kalevala Knights Workshop/Watery Lunchbox 6 Kalevala Knights Workshop"
+                    },
+                    {
+                        "ref": "Watery/Watery Hunting Crossbow (Cult Stash)/Watery Hunting Crossbow (Cult Stash)"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 1 North of Town/Watery Nursery Rhyme 1 North of Town"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 2 Radio Tower/Watery Nursery Rhyme 2 Radio Tower"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 3 Lighthouse/Watery Nursery Rhyme 3 Lighthouse"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 4 Ranger Cabin/Watery Nursery Rhyme 4 Ranger Cabin"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 5 Latte Lagoon/Watery Nursery Rhyme 5 Latte Lagoon"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 6 Trailer Park/Watery Nursery Rhyme 6 Trailer Park"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 7 Trailer Park Pier/Watery Nursery Rhyme 7 Trailer Park Pier"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme 8 Town/Watery Nursery Rhyme 8 Town"
+                    },
+                    {
+                        "ref": "Watery/Watery Screwdriver/Watery Screwdriver"
+                    },
+                    {
+                        "ref": "Watery/Watery Trailer Park Key/Watery Trailer Park Key"
+                    },
+                    {
+                        "ref": "Watery/Watery Fuse/Watery Fuse"
+                    },
+                    {
+                        "ref": "Watery/Watery Overlap/Watery Clicker"
+                    },
+                    {
+                        "ref": "Watery/Watery Parade Float Completion/Watery Parade Float Completion"
+                    },
+                    {
+                        "ref": "Watery/Watery Deer Head 1 Town Hall/Watery Deer Head 1 Town Hall"
+                    },
+                    {
+                        "ref": "Watery/Watery Deer Head 2 Trailer Park/Watery Deer Head 2 Trailer Park"
+                    },
+                    {
+                        "ref": "Watery/Watery Deer Head 3 Kalevala Workshop/Watery Deer Head 3 Kalevala Workshop"
+                    },
+                    {
+                        "ref": "Watery/Watery Deer Head 4 Ranger Cabin/Watery Deer Head 4 Ranger Cabin"
+                    },
+                    {
+                        "ref": "Watery/Watery Cult Stash 1 East of Hunting Shack/Watery Cult Stash 1 East of Hunting Shack"
+                    },
+                    {
+                        "ref": "Watery/Watery Cult Stash 2 Slow Roaster/Watery Cult Stash 2 Slow Roaster"
+                    },
+                    {
+                        "ref": "Watery/Watery Cult Stash 3 Huotari Well/Watery Cult Stash 3 Huotari Well"
+                    },
+                    {
+                        "ref": "Watery/Watery Cult Stash 4 Path to Lighthouse/Watery Cult Stash 4 Path to Lighthouse"
+                    },
+                    {
+                        "ref": "Watery/Watery Cult Stash 5 Behind Kalevala Workshop/Watery Cult Stash 5 Behind Kalevala Workshop"
+                    },
+                    {
+                        "ref": "Watery/Watery Cult Stash 6 Trailer Park/Watery Cult Stash 6 Trailer Park"
+                    },
+                    {
+                        "ref": "Watery/Watery Cult Stash 7 Town/Watery Cult Stash 7 Town"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 1 East of Hunting Shack/Watery Manuscript Page 1 East of Hunting Shack"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 2 Hunting Shack/Watery Manuscript Page 2 Hunting Shack"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 3 Gift Shop Break Room/Watery Manuscript Page 3 Gift Shop Break Room"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 4 Gift Shop/Watery Manuscript Page 4 Gift Shop"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 5 Kalevala Workshop Proper/Watery Manuscript Page 5 Kalevala Workshop Proper"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 6 Kalevala Workshop Basement/Watery Manuscript Page 6 Kalevala Workshop Basement"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 7 Parade Float/Watery Manuscript Page 7 Parade Float"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 8 Espresso Express/Watery Manuscript Page 8 Espresso Express"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 9 Overlap Loop 1/Watery Manuscript Page 9 Overlap Loop 1"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 10 Overlap Loop 2/Watery Manuscript Page 10 Overlap Loop 2"
+                    },
+                    {
+                        "ref": "Watery/Watery Manuscript Page 11 Town/Watery Manuscript Page 11 Town"
+                    },
+                    {
+                        "ref": "Watery/Watery Overlap/Watery Chapter 3 Completion"
+                    },
+                    {
+                        "ref": "Watery/Watery Overlap/Watery Thornton and Mulligan Defeated"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Dolls North of Town/Watery Nursery Rhyme Deer Doll - North of Town"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Dolls North of Town/Watery Nursery Rhyme Moose Doll - North of Town"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Dolls - Lighthouse/Watery Nursery Rhyme Wise Elder Doll - Lighthouse"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Bear Doll - Trailer Park or Ranger Cabin/Watery Nursery Rhyme Bear Doll - Trailer Park or Ranger Cabin"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Dolls - Lighthouse/Watery Nursery Rhyme Mother Doll - Lighthouse"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Dolls - Lighthouse/Watery Nursery Rhyme Trickster Doll - Lighthouse"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Maiden Doll - Ranger Cabin or Downtown Watery/Watery Nursery Rhyme Maiden Doll - Ranger Cabin or Downtown Watery"
+                    },
+                    {
+                        "ref": "Watery/Watery Nursery Rhyme Monster Doll - Ranger Cabin or Cauldron Lake Rental Cabins or Bright Falls Beach/Watery Nursery Rhyme Monster Doll - Ranger Cabin or Cauldron Lake Rental Cabins or Bright Falls Beach"
+                    },
+                    {
+                        "ref": "Watery/Watery Mayor Setter Charm - Ch5/Watery Mayor Setter Charm - Ch5"
+                    }
+                    
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 3476,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "Valhalla Nursing Home",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Valhalla Nursing Home/Wellness Center Manuscript Page 1 Patient Room/Wellness Center Manuscript Page 1 Patient Room"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Wellness Center Manuscript Page 2 Examination Rooms/Wellness Center Manuscript Page 2 Examination Rooms"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Wellness Center Manuscript Page 3 Workshop/Wellness Center Manuscript Page 3 Workshop"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Wellness Center Door Knob/Wellness Center Door Knob"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Wellness Center Hunting Rifle/Wellness Center Hunting Rifle"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Wellness Center Deer Head 1 Workshop/Wellness Center Deer Head 1 Workshop"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Lunchbox 1 First Floor Office/Valhalla Manor Lunchbox 1 First Floor Office"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Deer Head 1 Lounge/Valhalla Manor Deer Head 1 Lounge"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Fuse/Valhalla Manor Fuse"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 1 Stairwell after Rose/Valhalla Manor Manuscript Page 1 Stairwell after Rose"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 2 Basement Work Space/Valhalla Manor Manuscript Page 2 Basement Work Space"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 3 Basement Boiler Room/Valhalla Manor Manuscript Page 3 Basement Boiler Room"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 4 Basement Laundry Room/Valhalla Manor Manuscript Page 4 Basement Laundry Room"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 5 Gail's Room/Valhalla Manor Manuscript Page 5 Gail's Room"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 6 Cynthia's Room/Valhalla Manor Manuscript Page 6 Cynthia's Room"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 7 Valhalla Nursing Home Arrival/Valhalla Manor Manuscript Page 7 Valhalla Nursing Home Arrival"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Rose Conversation/Valhalla Manor Manuscript Page 8 Rose"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 9 Valhalla Bridge after Cynthia/Valhalla Manor Manuscript Page 9 Valhalla Bridge after Cynthia"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Manuscript Page 10 Valhalla Pavillion after Cynthia/Valhalla Manor Manuscript Page 10 Valhalla Pavillion after Cynthia"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Chapter Overlap/Valhalla Manor Tool Cabinet Key"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Chapter Overlap/Valhalla Manor Boltcutters"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Rose Conversation/Valhalla Manor Rose's Keyfob"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Anger's Remorse Record/Valhalla Manor Anger's Remorse Record"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Chapter Overlap/Valhalla Manor Chapter 5 Completion"
+                    },
+                    {
+                        "ref": "Valhalla Nursing Home/Valhalla Manor Chapter Overlap/Valhalla Manor Cynthia Weaver Defeated"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 2378,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "Talk Show Studio",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Talk Show Studio/Talk Show Studio Janitor's Key/Talk Show Studio Janitor's Key"
+                    },
+                    {
+                        "ref": "Talk Show Studio/Talk Show Studio Basement Shoebox/Talk Show Studio Angel Lamp"
+                    },
+                    {
+                        "ref": "Talk Show Studio/Talk Show Studio Basement Shoebox/Talk Show Studio Alice's Photographs"
+                    },
+                    {
+                        "ref": "Talk Show Studio/Talk Show Studio Chapter Chapter Completions/Talk Show Studio Chapter 1 Completion"
+                    },
+                    {
+                        "ref": "Talk Show Studio/Talk Show Studio Chapter Chapter Completions/Talk Show Studio Chapter 7 Completion"
+                    },
+                    {
+                        "ref": "Talk Show Studio/Talk Show Studio Flare Gun/Talk Show Studio Flare Gun"
+                    },
+                    {
+                        "ref": "Talk Show Studio/Talk Show Studio Echo 1 Jazz Section/Talk Show Studio Echo 1 Jazz Section"
+                    },
+                    {
+                        "ref": "Talk Show Studio/GOAL - Talk Show Studio Chapter 4 Completion/GOAL - Talk Show Studio Chapter 4 Completion"
+                    }
+                    
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 535,
+                        "y": 1623
+                    }
+                ]
+            },
+            {
+                "name": "Dark Place",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Dark Place/Dark Place Phone Booth/Dark Place Subway Pass"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Phone Booth/Dark Place Room 665 Key"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Double-Barelled Shotgun/Dark Place Double-Barelled Shotgun"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Fix 1 Outside Studio/Dark Place Word of Fix 1 Outside Studio"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Action 1 Draft Street Under Bridge/Dark Place Word of Action 1 Draft Street Under Bridge"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Fix 2 Alley after Casey/Dark Place Word of Fix 2 Alley after Casey"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Lamp 1 High-Line Station Behind Air Conditioner/Dark Place Word of Lamp 1 High-Line Station Behind Air Conditioner"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of War 1 High-Line Station Scaffold near Police Car/Dark Place Word of War 1 High-Line Station Scaffold near Police Car"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Gun 1 High-Line Station near Police Car/Dark Place Word of Gun 1 High-Line Station near Police Car"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Aid 1 Alley Rooftop/Dark Place Word of Aid 1 Alley Rooftop"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Lamp 2 Water Tower/Dark Place Word of Lamp 2 Water Tower"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Gun 2 Alley Rooftop Under Stairs/Dark Place Word of Gun 2 Alley Rooftop Under Stairs"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Aid 2 Alley Rooftop High on Wall (Ch5)/Dark Place Word of Aid 2 Alley Rooftop High on Wall (Ch5)"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Word of Aid 3 Tunnel Right of Poet's Cinema/Dark Place Word of Aid 3 Tunnel Right of Poet's Cinema"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Manuscript Page Saga/Dark Place Manuscript Page Saga"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 1 High-Line Station Casey Billboard 1/Dark Place Echo 1 High-Line Station Casey Billboard 1"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 2 High-Line Station Casey Billboard 2/Dark Place Echo 2 High-Line Station Casey Billboard 2"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 3 Parliament Tower Lobby/Dark Place Echo 3 Parliament Tower Lobby"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 4 Alley Rooftop Casey Billboard 3/Dark Place Echo 4 Alley Rooftop Casey Billboard 3"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 5 Alley Rooftop Casey Billboard 4/Dark Place Echo 5 Alley Rooftop Casey Billboard 4"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 6 Ocean Ave Chapter 7/Dark Place Echo 6 Ocean Ave Chapter 7"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 7 Outside Oceanview Hotel Chapter 5/Dark Place Echo 7 Outside Oceanview Hotel Chapter 5"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 8 Poet's Cinema Casey Billboard 5/Dark Place Echo 8 Poet's Cinema Casey Billboard 5"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Echo 9 Poet's Cinema Casey Billboard 6/Dark Place Echo 9 Poet's Cinema Casey Billboard 6"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Saga Clicker and Bullet of Light/Dark Place Saga Clicker and Bullet of Light"
+                    },
+                    {
+                        "ref": "Dark Place/Dark Place Saga Chapter 9 Completion/Dark Place Saga Chapter 9 Completion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 1281,
+                        "y": 1623
+                    }
+                ]
+            },
+            {
+                "name": "Parliament Tower",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Parliament Tower/Parliament Tower Checks/Parliament Tower Memory Card"
+                    },
+                    {
+                        "ref": "Parliament Tower/Parliament Tower Checks/Parliament Tower Chapter 3 Completion"
+                    },
+                    {
+                        "ref": "Parliament Tower/Parliament Tower Checks/Parliament Tower Chapter 6 Completion"
+                    },
+                    {
+                        "ref": "Parliament Tower/Parliament Tower Checks/Parliament Tower Chapter 9 Completion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 1579,
+                        "y": 1623
+                    }
+                ]
+            },
+            {
+                "name": "Caldera Street Station",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Gun 1 Platform Entrance/Caldera Street Station Word of Gun 1 Platform Entrance"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Aid 1 Main Tunnel/Caldera Street Station Word of Aid 1 Main Tunnel"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Lamp 1 West Main Tunnel Side Room/Caldera Street Station Word of Lamp 1 West Main Tunnel Side Room"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of War 1 Top of Abandoned Station/Caldera Street Station Word of War 1 Top of Abandoned Station"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Action 1 Behind Breakable Wall/Caldera Street Station Word of Action 1 Behind Breakable Wall"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Fix 1 West Wall Abandoned Station/Caldera Street Station Word of Fix 1 West Wall Abandoned Station"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Lamp 2 West Shrine St/Caldera Street Station Word of Lamp 2 West Shrine St"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Gun 2 Shrine St/Caldera Street Station Word of Gun 2 Shrine St"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Action 2 Shrine St/Caldera Street Station Word of Action 2 Shrine St"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Word of Fix 2 Main Tunnel Shortcut from Shrine St/Caldera Street Station Word of Fix 2 Main Tunnel Shortcut from Shrine St"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 1 Platform Entrance/Caldera Street Station Echo 1 Platform Entrance"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 2 Collapsed Tunnel FBI Agent/Caldera Street Station Echo 2 Collapsed Tunnel FBI Agent"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 3 Main Tunnel after Light Shift/Caldera Street Station Echo 3 Main Tunnel after Light Shift"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 4 Abandoned Station/Caldera Street Station Echo 4 Abandoned Station"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 5 Shrine St Station/Caldera Street Station Echo 5 Shrine St Station"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 6 North Shrine St Station/Caldera Street Station Echo 6 North Shrine St Station"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 7 Collapsed Tunnel Torchbearers/Caldera Street Station Echo 7 Collapsed Tunnel Torchbearers"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Echo 8 Collapsed Tunnel Summoning Ritual/Caldera Street Station Echo 8 Collapsed Tunnel Summoning Ritual"
+                    },
+                    {
+                        "ref": "Caldera Street Station/Caldera Street Station Chapter 2 Completion/Caldera Street Station Chapter 2 Completion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 2347,
+                        "y": 1623
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Hotel",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Word of War 1 Room 224/Oceanview Hotel Word of War 1 Room 224"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Word of War 2 Second Floor Hallway/Oceanview Hotel Word of War 2 Second Floor Hallway"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Word of Stuff 1 Ballroom/Oceanview Hotel Word of Stuff 1 Ballroom"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Room 101 Key/Oceanview Hotel Room 101 Key"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Room 104 Key/Oceanview Hotel Room 104 Key"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Room 209 Key/Oceanview Hotel Room 209 Key"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Echo 1 Hallway Outside Zane's Room/Oceanview Hotel Echo 1 Hallway Outside Zane's Room"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Echo 2 Behind Reception Counter/Oceanview Hotel Echo 2 Behind Reception Counter"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Echo 3 Room 202/Oceanview Hotel Echo 3 Room 202"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Echo 4 Ballroom/Oceanview Hotel Echo 4 Ballroom"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Echo 5 First Floor Stairwell Devil Scene/Oceanview Hotel Echo 5 First Floor Stairwell Devil Scene"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Echo 6 Stairwell Room 666/Oceanview Hotel Echo 6 Stairwell Room 666"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Echo 7 Reception Climax Scene/Oceanview Hotel Echo 7 Reception Climax Scene"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Chapter 5 Completion/Oceanview Hotel Chapter 5 Completion"
+                    },
+                    {
+                        "ref": "Oceanview Hotel/Oceanview Hotel Movie Ticket/Oceanview Hotel Movie Ticket"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 3375,
+                        "y": 1623
+                    }
+                ]
+            },
+            {
+                "name": "Poet's Cinema",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Word of Fix 1 Upstairs from Break Room/Poet's Cinema Word of Fix 1 Upstairs from Break Room"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Word of Action 1 Behind Bathroom Right of Lobby/Poet's Cinema Word of Action 1 Behind Bathroom Right of Lobby"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Word of Lamp 1 Rooftop Near Tim Breaker/Poet's Cinema Word of Lamp 1 Rooftop Near Tim Breaker"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Word of Stuff 1 Rooftop Spotlights/Poet's Cinema Word of Stuff 1 Rooftop Spotlights"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 1 Concession Stand Top Floor/Poet's Cinema Echo 1 Concession Stand Top Floor"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 2 Behind Concession Stand/Poet's Cinema Echo 2 Behind Concession Stand"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 3 Theatre Screen/Poet's Cinema Echo 3 Theatre Screen"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 4 Top of Screening Room in Light Shift/Poet's Cinema Echo 4 Top of Screening Room in Light Shift"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 5 Garage New York's Finest Scene/Poet's Cinema Echo 5 Garage New York's Finest Scene"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 6 Rooftop Cult of the Word Scene/Poet's Cinema Echo 6 Rooftop Cult of the Word Scene"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 7 Projector Room/Poet's Cinema Echo 7 Projector Room"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Echo 8 Concession Stand Post Chapter 8/Poet's Cinema Echo 8 Concession Stand Post Chapter 8"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Chapter 8 Completion/Poet's Cinema Chapter 8 Completion"
+                    },
+                    {
+                        "ref": "Poet's Cinema/Poet's Cinema Knife/Poet's Cinema Knife"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 4278,
+                        "y": 1623
+                    }
+                ]
+            },
+            {
+                "name": "Deerfest",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Deerfest/Deerfest Return Book Location/Deerfest Return Book Location"
+                    },
+                    {
+                        "ref": "Deerfest/Deerfest Echo Writers Room/Deerfest Echo Writers Room"
+                    },
+                    {
+                        "ref": "Deerfest/Deerfest Chapter 8 Completion/Deerfest Chapter 8 Completion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 2671,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Night Springs/Night Springs Ep 1 Alan Message 1 Fish Statue/Night Springs Ep 1 Alan Message 1 Fish Statue"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 1 Alan Message 2 Tree Stump After Boatyard/Night Springs Ep 1 Alan Message 2 Tree Stump After Boatyard"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 1 Alan Message 3 Deer/Night Springs Ep 1 Alan Message 3 Deer"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 1 Completion/Night Springs Ep 1 Completion"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Ferris Wheel Key/Night Springs Ep 2 Ferris Wheel Key"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Orientation Video/Night Springs Ep 2 Orientation Video"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Warehouse Office Key/Night Springs Ep 2 Warehouse Office Key"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Coffee Tasting/Night Springs Ep 2 Coffee Tasting"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Optimal Coffee Temperature/Night Springs Ep 2 Optimal Coffee Temperature"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Stash 1 Near Sheriff Breaker/Night Springs Ep 2 Stash 1 Near Sheriff Breaker"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Stash 2 The Percolator/Night Springs Ep 2 Stash 2 The Percolator"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Stash 3 Latte Lagoon/Night Springs Ep 2 Stash 3 Latte Lagoon"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Stash 4 Behind Tasting Room/Night Springs Ep 2 Stash 4 Behind Tasting Room"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Stash 5 Slow Roaster/Night Springs Ep 2 Stash 5 Slow Roaster"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Stash 6 Outside Coffee Warehouse/Night Springs Ep 2 Stash 6 Outside Coffee Warehouse"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 2 Completion/Night Springs Ep 2 Completion"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 3 Polyhedron Reality Shifter/Night Springs Ep 3 Polyhedron Reality Shifter"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 3 SEN - Cauldron Lake/Night Springs Ep 3 SEN - Cauldron Lake"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 3 SEN - Oceanview Hotel/Night Springs Ep 3 SEN - Oceanview Hotel"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 3 Comic Section Complete/Night Springs Ep 3 Comic Section Complete"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 3 SEN - 2D Section/Night Springs Ep 3 SEN - 2D Section"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 3 SEN - Edge of Multiverse/Night Springs Ep 3 SEN - Edge of Multiverse"
+                    },
+                    {
+                        "ref": "Night Springs/Night Springs Ep 3 Completion/Night Springs Ep 3 Completion"
+                    }
+                    
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 1854,
+                        "y": 2365
+                    }
+                ]
+            },
+            {
+                "name": "Lake House",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "ref": "Lake House/Lake House Shotgun/Lake House Shotgun"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Inventory Room/Lake House Black Rock Launcher"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Security Clearance 01 Keycard/Lake House Security Clearance 01 Keycard"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Security Clearance 02 Keycard/Lake House Security Clearance 02 Keycard"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Inventory Room/Lake House Security Clearance 03 Keycard"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Manuscript Pages- Level 3 ATD Office/Lake House Manuscript Page 01 - Level 3 ATD Office"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Manuscript Pages- Level 3 ATD Office/Lake House Manuscript Page 02 - Level 3 ATD Office"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Manuscript Page 03 - Level 2 Cell Floor/Lake House Manuscript Page 03 - Level 2 Cell Floor"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Inventory Room/Lake House Manuscript Page 04 - Level 1 Inventory Management"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Manuscript Page 05 - Level 3 Bottom Right Office/Lake House Manuscript Page 05 - Level 3 Bottom Right Office"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Manuscript Page 06 - Level 4 Living Painting/Lake House Manuscript Page 06 - Level 4 Living Painting"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Manuscript Page 07 - Level 4 Shifting Maze (M725)/Lake House Manuscript Page 07 - Level 4 Shifting Maze (M725)"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Manuscript Page 08 - Level 4 Diana's Desk/Lake House Manuscript Page 08 - Level 4 Diana's Desk"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Dylan Cutscene/Lake House Dylan Cutscene"
+                    },
+                    {
+                        "ref": "Lake House/Lake House Completion/Lake House Completion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "condensed_view",
+                        "x": 2748,
+                        "y": 2365
+                    }
+                ]
+            }
+        ]
+    }
+]

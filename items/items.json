@@ -1,0 +1,600 @@
+[
+    {
+        "name": "Cauldron Lake Fuse",
+        "type": "toggle",
+        
+        "img": "images/items/cauldron_lake_fuse.png",
+        "codes": "cauldron_lake_fuse"
+    },
+    {
+        "name": "Nightingale's Heart",
+        "type": "toggle",
+        
+        "img": "images/items/nightingales_heart.png",
+        "codes": "nightingales_heart"
+    },
+    {
+        "name": "West Bright Falls Access",
+        "type": "toggle",
+        
+        "img": "images/items/west_bright_falls_access.png",
+        "codes": "west_bright_falls_access"
+    },
+    {
+        "name": "Watery Location Unlock",
+        "type": "toggle",
+        
+        "img": "images/items/watery_location_unlock.png",
+        "codes": "watery_location_unlock"
+    },
+    {
+        "name": "Screwdriver",
+        "type": "toggle",
+        
+        "img": "images/items/screwdriver.png",
+        "codes": "screwdriver"
+    },
+    {
+        "name": "Trailer Park Key",
+        "type": "toggle",
+        
+        "img": "images/items/trailer_park_key.png",
+        "codes": "trailer_park_key"
+    },
+    {
+        "name": "Watery Fuse",
+        "type": "toggle",
+        
+        "img": "images/items/watery_fuse.png",
+        "codes": "watery_fuse"
+    },
+    {
+        "name": "Parade Float Completion Token",
+        "type": "toggle",
+        
+        "img": "images/items/parade_float_completion_token.png",
+        "codes": "parade_float_completion_token"
+    },
+    {
+        "name": "The Clicker",
+        "type": "toggle",
+        
+        "img": "images/items/the_clicker.png",
+        "codes": "the_clicker"
+    },
+    {
+        "name": "Door Knob",
+        "type": "toggle",
+        
+        "img": "images/items/door_knob.png",
+        "codes": "door_knob"
+    },
+    {
+        "name": "Rose's Keyfob",
+        "type": "toggle",
+        
+        "img": "images/items/roses_keyfob.png",
+        "codes": "roses_keyfob"
+    },
+    {
+        "name": "Valhalla Manor Fuse",
+        "type": "toggle",
+        
+        "img": "images/items/valhalla_manor_fuse.png",
+        "codes": "valhalla_manor_fuse"
+    },
+    {
+        "name": "\"Anger's Remorse\" Record",
+        "type": "toggle",
+        
+        "img": "images/items/angers_remorse_record.png",
+        "codes": "angers_remorse_record"
+    },
+    {
+        "name": "Tool Cabinet Key",
+        "type": "toggle",
+        
+        "img": "images/items/tool_cabinet_key.png",
+        "codes": "tool_cabinet_key"
+    },
+    {
+        "name": "Boltcutters",
+        "type": "toggle",
+        
+        "img": "images/items/boltcutters.png",
+        "codes": "boltcutters"
+    },
+    {
+        "name": "Sheriff's Station Key",
+        "type": "toggle",
+        
+        "img": "images/items/sheriffs_station_key.png",
+        "codes": "sheriffs_station_key"
+    },
+    {
+        "name": "Sheriff's Station Fuse",
+        "type": "toggle",
+        
+        "img": "images/items/sheriffs_station_fuse.png",
+        "codes": "sheriffs_station_fuse"
+    },
+    {
+        "name": "Crow Doll",
+        "type": "toggle",
+        
+        "img": "images/items/crow_doll.png",
+        "codes": "crow_doll"
+    },
+    {
+        "name": "Hero Doll",
+        "type": "toggle",
+        
+        "img": "images/items/hero_doll.png",
+        "codes": "hero_doll"
+    },
+    {
+        "name": "Wolf Doll",
+        "type": "toggle",
+        
+        "img": "images/items/wolf_doll.png",
+        "codes": "wolf_doll"
+    },
+    {
+        "name": "Deer Doll",
+        "type": "toggle",
+        
+        "img": "images/items/deer_doll.png",
+        "codes": "deer_doll"
+    },
+    {
+        "name": "Moose Doll",
+        "type": "toggle",
+        
+        "img": "images/items/moose_doll.png",
+        "codes": "moose_doll"
+    },
+    {
+        "name": "Wise Elder Doll",
+        "type": "toggle",
+        
+        "img": "images/items/wise_elder_doll.png",
+        "codes": "wise_elder_doll"
+    },
+    {
+        "name": "Bear Doll",
+        "type": "toggle",
+        
+        "img": "images/items/bear_doll.png",
+        "codes": "bear_doll"
+    },
+    {
+        "name": "Mother Doll",
+        "type": "toggle",
+        
+        "img": "images/items/mother_doll.png",
+        "codes": "mother_doll"
+    },
+    {
+        "name": "Child Doll",
+        "type": "toggle",
+        
+        "img": "images/items/child_doll.png",
+        "codes": "child_doll"
+    },
+    {
+        "name": "Trickster Doll",
+        "type": "toggle",
+        
+        "img": "images/items/trickster_doll.png",
+        "codes": "trickster_doll"
+    },
+    {
+        "name": "Maiden Doll",
+        "type": "toggle",
+        
+        "img": "images/items/maiden_doll.png",
+        "codes": "maiden_doll"
+    },
+    {
+        "name": "Monster Doll",
+        "type": "toggle",
+        
+        "img": "images/items/monster_doll.png",
+        "codes": "monster_doll"
+    },
+    {
+        "name": "Janitor's Key",
+        "type": "toggle",
+        
+        "img": "images/items/janitors_key.png",
+        "codes": "janitors_key"
+    },
+    {
+        "name": "Angel Lamp",
+        "type": "toggle",
+        
+        "img": "images/items/angel_lamp.png",
+        "codes": "angel_lamp"
+    },
+    {
+        "name": "Subway Pass",
+        "type": "toggle",
+        
+        "img": "images/items/subway_pass.png",
+        "codes": "subway_pass"
+    },
+    {
+        "name": "Progressive Plot (Subway)",
+        "type": "consumable",
+        
+        "img": "images/items/progressive_plot_(subway).png",
+        "codes": "progressive_plot_(subway)",
+        "min_quantity": 0,
+        "max_quantity": 5
+    },
+    {
+        "name": "Memory Card",
+        "type": "toggle",
+        
+        "img": "images/items/memory_card.png",
+        "codes": "memory_card"
+    },
+    {
+        "name": "Room 665 Key",
+        "type": "toggle",
+        
+        "img": "images/items/room_665_key.png",
+        "codes": "room_665_key"
+    },
+    {
+        "name": "Room 104 Key",
+        "type": "toggle",
+        
+        "img": "images/items/room_104_key.png",
+        "codes": "room_104_key"
+    },
+    {
+        "name": "Progressive Plot (Hotel)",
+        "type": "consumable",
+        
+        "img": "images/items/progressive_plot_(hotel).png",
+        "codes": "progressive_plot_(hotel)",
+        "min_quantity": 0,
+        "max_quantity": 5
+    },
+    {
+        "name": "Movie Ticket",
+        "type": "toggle",
+        
+        "img": "images/items/movie_ticket.png",
+        "codes": "movie_ticket"
+    },
+    {
+        "name": "Progressive Plot (Cinema)",
+        "type": "consumable",
+        
+        "img": "images/items/progressive_plot_(cinema).png",
+        "codes": "progressive_plot_(cinema)",
+        "min_quantity": 0,
+        "max_quantity": 5
+    },
+    {
+        "name": "Alice's Photographs",
+        "type": "toggle",
+        
+        "img": "images/items/alices_photographs.png",
+        "codes": "alices_photographs"
+    },
+    {
+        "name": "\"Return\" by Alan Wake",
+        "type": "toggle",
+        
+        "img": "images/items/return_by_alan_wake.png",
+        "codes": "return_by_alan_wake"
+
+    },
+    {
+
+
+        "name": "Progressive Verse",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": false,
+        "stages": [
+            {
+                "codes": "progressive_verse",
+                "disabled_img": "images/items/AlanDance_0.png",
+                "img": "images/items/AlanDance_1.png"
+            },
+            {
+                "codes": "progressive_verse_2",
+                "img": "images/items/AlanDance_2.png"
+            },
+            {
+                "codes": "progressive_verse_3",
+                "img": "images/items/AlanDance_3.png"
+            },
+            {
+                "codes": "progressive_verse_4",
+                "img": "images/items/AlanDance_4.png"
+            },
+            {
+                "codes": "progressive_verse_5",
+                "img": "images/items/AlanDance_5.png"
+            },
+            {
+                "img": "images/items/AlanDance_5.png"
+            },
+            {
+                "img": "images/items/AlanDance_5.png"
+            }
+        ]
+    },
+    {
+        "name": "Coffee World Entrance Token",
+        "type": "toggle",
+        
+        "img": "images/items/coffee_world_entrance_token.png",
+        "codes": "coffee_world_entrance_token"
+
+    },
+    {
+        "name": "Valhalla Nursing Home Appointment",
+        "type": "toggle",
+        
+        "img": "images/items/valhalla_nursing_home_appointment.png",
+        "codes": "valhalla_nursing_home_appointment"
+   
+    },
+    {
+        "name": "Night Springs Episode 1 Token",
+        "type": "toggle",
+        
+        "img": "images/items/night_springs_episode_1_token.png",
+        "codes": "night_springs_episode_1_token"
+
+    },
+    {
+        "name": "Night Springs Episode 2 Token",
+        "type": "toggle",
+        
+        "img": "images/items/night_springs_episode_2_token.png",
+        "codes": "night_springs_episode_2_token"
+
+    },
+    {
+        "name": "Night Springs Ep 2 Ferris Wheel Control Key",
+        "type": "toggle",
+        
+        "img": "images/items/night_springs_ep_2_ferris_wheel_control_key.png",
+        "codes": "night_springs_ep_2_ferris_wheel_control_key"
+
+    },
+    {
+        "name": "Night Springs Ep 2 Orientation Video Tape",
+        "type": "toggle",
+        
+        "img": "images/items/night_springs_ep_2_orientation_video_tape.png",
+        "codes": "night_springs_ep_2_orientation_video_tape"
+
+    },
+    {
+        "name": "Night Springs Ep 2 Warehouse Office Key",
+        "type": "toggle",
+        
+        "img": "images/items/night_springs_ep_2_warehouse_office_key.png",
+        "codes": "night_springs_ep_2_warehouse_office_key"
+
+    },
+    {
+        "name": "Night Springs Episode 3 Token",
+        "type": "toggle",
+        
+        "img": "images/items/night_springs_episode_3_token.png",
+        "codes": "night_springs_episode_3_token"
+    },
+    {
+        "name": "Night Springs Polyhedron Reality Shifter",
+        "type": "toggle",
+        
+        "img": "images/items/night_springs_polyhedron_reality_shifter.png",
+        "codes": "night_springs_polyhedron_reality_shifter"
+
+    },
+    {
+        "name": "Night Springs Progressive SEN",
+        "type": "consumable",
+        
+        "img": "images/items/night_springs_progressive_sen.png",
+        "codes": "night_springs_progressive_sen",
+        "min_quantity": 0,
+        "max_quantity": 5
+    },
+    {
+        "name": "Lake House Estevez's ID Card",
+        "type": "toggle",
+        
+        "img": "images/items/lake_house_estevezs_id_card.png",
+        "codes": "lake_house_estevezs_id_card"
+
+    },
+    {
+        "name": "Lake House Progressive Keycard",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": false,
+        "stages": [
+            {
+                "codes": "lake_house_progressive_keycard",
+                "img": "images/items/lake_house_progressive_keycard_1.png"
+            },
+            {
+                "codes": "lake_house_progressive_keycard_2",
+                "img": "images/items/lake_house_progressive_keycard_2.png"
+            },
+            {
+                "codes": "lake_house_progressive_keycard_3",
+                "img": "images/items/lake_house_progressive_keycard_3.png"
+            },
+            {
+                "img": "images/items/lake_house_progressive_keycard_3.png"
+            }
+        ]
+    },
+    {
+        "name": "Bullet of Light",
+        "type": "toggle",
+        "img": "images/items/bullet_of_light.png",
+        "codes": "bullet_of_light"
+    },
+    {
+        "name": "Sawed-Off Shotgun",
+        "type": "toggle",
+        "img": "images/items/sawn_off_shotgun.png",
+        "codes": "sawed_off_shotgun"
+    },
+    {
+        "name": "Hunting Crossbow",
+        "type": "toggle",
+        "img": "images/items/crossbow.png",
+        "codes": "hunting_crossbow"
+    },
+    {
+        "name": "Hunting Rifle",
+        "type": "toggle",
+        "img": "images/items/hunting_rifle.png",
+        "codes": "hunting_rifle"
+    },
+    {
+        "name": "Pump-Action Shotgun",
+        "type": "toggle",
+        "img": "images/items/saga_pump_shotgun.png",
+        "codes": "pump-action_shotgun"
+    },
+    {
+        "name": "Logan's Charm",
+        "type": "toggle",
+        "img": "images/items/logans_charm.png",
+        "codes": "logans_charm"
+    },
+    {
+        "name": "Hammer Charm",
+        "type": "toggle",
+        "img": "images/items/hammer_charm.png",
+        "codes": "hammer_charm"
+    },
+    {
+        "name": "Kalevala Knight's Charm",
+        "type": "toggle",
+        "img": "images/items/kalevala_knights_charm.png",
+        "codes": "kalevala_knights_charm"
+    },
+    {
+        "name": "Coffee Mug Charm",
+        "type": "consumable",
+        "img": "images/items/coffee_mug_charm.png",
+        "codes": "coffee_mug_charm",
+        "min_quantity": 0,
+        "max_quantity": 5
+    },
+    {
+        "name": "Deer Charm",
+        "type": "toggle",
+        "img": "images/items/deer_charm.png",
+        "codes": "deer_charm"
+    },
+    {
+        "name": "Coffee World Token Charm",
+        "type": "toggle",
+        "img": "images/items/coffee_world_token_charm.png",
+        "codes": "coffee_world_token_charm"
+    },
+    {
+        "name": "Lighthouse Charm",
+        "type": "toggle",
+        "img": "images/items/lighthouse_charm.png",
+        "codes": "lighthouse_charm"
+    },
+    {
+        "name": "Mr Drippy Charm",
+        "type": "toggle",
+        "img": "images/items/mr_drippy_charm.png",
+        "codes": "mr_drippy_charm"
+    },
+    {
+        "name": "FBC Charm",
+        "type": "toggle",
+        "img": "images/items/fbc_charm.png",
+        "codes": "fbc_charm"
+    },
+    {
+        "name": "lantern Charm",
+        "type": "toggle",
+        "img": "images/items/lantern_charm.png",
+        "codes": "lantern_charm"
+    },
+    {
+        "name": "Valhalla Nursing Home Charm",
+        "type": "toggle",
+        "img": "images/items/valhalla_nursing_home_charm.png",
+        "codes": "valhalla_nursing_home_charm"
+    },
+    {
+        "name": "Anchor Charm",
+        "type": "toggle",
+        "img": "images/items/anchor_charm.png",
+        "codes": "anchor_charm"
+    },
+    {
+        "name": "Deerfest Charm",
+        "type": "toggle",
+        "img": "images/items/deerfest_charm.png",
+        "codes": "deerfest_charm"
+    },
+    {
+        "name": "Mayor Setter Charm",
+        "type": "toggle",
+        "img": "images/items/mayor_setter_charm.png",
+        "codes": "mayor_setter_charm"
+    },
+    {
+        "name": "Progressive Manuscript Fragments (x10)",
+        "type": "consumable",
+        "img": "images/items/manuscript_fragments.png",
+        "codes": "progressive_manuscript_fragments_(x10)",
+        "min_quantity": 0,
+        "max_quantity": 13
+    },
+    {
+        "name": "Flare Gun",
+        "type": "toggle",
+        "img": "images/items/flare_gun.png",
+        "codes": "flare_gun"
+    },
+    {
+        "name": "Double-Barreled Shotgun",
+        "type": "toggle",
+        "img": "images/items/alan_shotgun.png",
+        "codes": "double-barreled_shotgun"
+    },
+    {
+        "name": "Progressive Word of Power",
+        "type": "consumable",
+        "img": "images/items/words_of_power.png",
+        "codes": "progressive_word_of_power",
+        "min_quantity": 0,
+        "max_quantity": 28
+    },
+    {
+        "name": "Lake House Shotgun Unlock",
+        "type": "toggle",
+        "img": "images/items/lake_house_shotgun.png",
+        "codes": "lake_house_shotgun_unlock"
+    },
+    {
+        "name": "Lake House Black Rock Launcher Unlock",
+        "type": "toggle",
+        "img": "images/items/black_rock_launcher.png",
+        "codes": "lake_house_black_rock_launcher_unlock"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "name": "Night Springs",
+        "children": [
+            {
+                "name": "Night Springs Ep 1 Completion",
+                "access_rules": [
+                    "night_springs_episode_1_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 1 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 1600,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 1 Alan Message 1 Fish Statue",
+                "access_rules": [
+                    "night_springs_episode_1_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 1 Alan Message 1 Fish Statue",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 494,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 1 Alan Message 2 Tree Stump After Boatyard",
+                "access_rules": [
+                    "night_springs_episode_1_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 1 Alan Message 2 Tree Stump After Boatyard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 937,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 1 Alan Message 3 Deer",
+                "access_rules": [
+                    "night_springs_episode_1_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 1 Alan Message 3 Deer",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 1259,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Ferris Wheel Key",
+                "access_rules": [
+                    "night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Ferris Wheel Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 4008,
+                        "y": 1764
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Orientation Video",
+                "access_rules": [
+                    "night_springs_ep_2_ferris_wheel_control_key, night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Orientation Video",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 3705,
+                        "y": 1188
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Warehouse Office Key",
+                "access_rules": [
+                    "night_springs_ep_2_ferris_wheel_control_key, night_springs_ep_2_orientation_video_tape, night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Warehouse Office Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 2706,
+                        "y": 1209
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Coffee Tasting",
+                "access_rules": [
+                    "night_springs_ep_2_ferris_wheel_control_key, night_springs_ep_2_orientation_video_tape, night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Coffee Tasting",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 3450,
+                        "y": 974
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Optimal Coffee Temperature",
+                "access_rules": [
+                    "night_springs_ep_2_ferris_wheel_control_key, night_springs_ep_2_orientation_video_tape, night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Optimal Coffee Temperature",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 3495,
+                        "y": 1848
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Stash 1 Near Sheriff Breaker",
+                "access_rules": [
+                    "night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Stash 1 Near Sheriff Breaker",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 4267,
+                        "y": 1850
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Stash 2 The Percolator",
+                "access_rules": [
+                    "night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Stash 2 The Percolator",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 4563,
+                        "y": 1750
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Stash 3 Latte Lagoon",
+                "access_rules": [
+                    "night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Stash 3 Latte Lagoon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 4526,
+                        "y": 959
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Stash 4 Behind Tasting Room",
+                "access_rules": [
+                    "night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Stash 4 Behind Tasting Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 3406,
+                        "y": 787
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Stash 5 Slow Roaster",
+                "access_rules": [
+                    "night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Stash 5 Slow Roaster",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 3996,
+                        "y": 965
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Stash 6 Outside Coffee Warehouse",
+                "access_rules": [
+                    "night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Stash 6 Outside Coffee Warehouse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 2855,
+                        "y": 1466
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 2 Completion",
+                "access_rules": [
+                    "night_springs_ep_2_ferris_wheel_control_key, night_springs_ep_2_orientation_video_tape, night_springs_episode_2_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 2 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 2874,
+                        "y": 1209
+                    }
+                ]
+            },
+
+            {
+                "name": "Night Springs Ep 3 Polyhedron Reality Shifter",
+                "access_rules": [
+                    "night_springs_episode_3_token"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 3 Polyhedron Reality Shifter",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 5186,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 3 SEN - Cauldron Lake",
+                "access_rules": [
+                    "night_springs_episode_3_token, night_springs_polyhedron_reality_shifter"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 3 SEN - Cauldron Lake",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 5389,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 3 SEN - Oceanview Hotel",
+                "access_rules": [
+                    "night_springs_episode_3_token, night_springs_polyhedron_reality_shifter, night_springs_progressive_sen:1"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 3 SEN - Oceanview Hotel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 5718,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 3 Comic Section Complete",
+                "access_rules": [
+                    "night_springs_episode_3_token, night_springs_polyhedron_reality_shifter, night_springs_progressive_sen:2"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 3 Comic Section Complete",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 6002,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 3 SEN - 2D Section",
+                "access_rules": [
+                    "night_springs_episode_3_token, night_springs_polyhedron_reality_shifter, night_springs_progressive_sen:2"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 3 SEN - 2D Section",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 6335,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 3 SEN - Edge of Multiverse",
+                "access_rules": [
+                    "night_springs_episode_3_token, night_springs_polyhedron_reality_shifter, night_springs_progressive_sen:3"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 3 SEN - Edge of Multiverse",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 6630,
+                        "y": 1002
+                    }
+                ]
+            },
+            {
+                "name": "Night Springs Ep 3 Completion",
+                "access_rules": [
+                    "night_springs_episode_3_token, night_springs_polyhedron_reality_shifter, night_springs_progressive_sen:4"
+                ],
+                "visibility_rules": [
+                    "Include_DLC"
+                ],
+                "sections": [
+                    {
+                        "name": "Night Springs Ep 3 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NightSprings",
+                        "x": 6879,
+                        "y": 1002
+                    }
+                ]
+            }
+        ]
+    }
+]

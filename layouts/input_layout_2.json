@@ -1,0 +1,27 @@
+{
+    "item_grid":{
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 60,
+                "item_margin": "1,1",
+                "rows": [
+                    ["janitors_key", "angel_lamp", "subway_pass", "progressive_plot_(subway)", "memory_card", "room_665_key"],
+                    ["room_104_key", "progressive_plot_(hotel)", "movie_ticket", "progressive_plot_(cinema)", "alices_photographs", "return_by_alan_wake"]
+                ]
+            },
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_size": 10,
+                "item_margin": "1,1",
+                "rows": [
+                    ["progressive_verse"]
+                ]
+            }
+        ]
+    }
+}

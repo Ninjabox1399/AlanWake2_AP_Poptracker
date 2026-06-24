@@ -1,0 +1,601 @@
+[
+    {
+        "name": "Bright Falls",
+        "children": [
+            {
+                "name": "Bright Falls Lunchbox 1 Founders' Park",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bright Falls Lunchbox 1 Founders' Park",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 4006,
+                        "y": 729
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Deer Head 1 Diner",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bright Falls Deer Head 1 Diner",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 3666,
+                        "y": 626
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Deer Head 2 FBI Office",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bright Falls Deer Head 2 FBI Office",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 3224,
+                        "y": 667
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 1 FBI Field Office",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 1 FBI Field Office",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2933,
+                        "y": 819
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 2 Behind Diner",
+                "access_rules": [
+                    "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 2 Behind Diner",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 3535,
+                        "y": 616
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 3 Pier",
+                "access_rules": [
+                    "boltcutters"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 3 Pier",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 3356,
+                        "y": 930
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 1 FBI Office (Given at Ch3 Start)",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 1 FBI Office (Given at Ch3 Start)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 3199,
+                        "y": 660
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 2 Lodge Room (Ch3)",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 2 Lodge Room (Ch3)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2973,
+                        "y": 664
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 3 Lodge Room (Ch3)",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 3 Lodge Room (Ch3)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2958,
+                        "y": 680
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 4 Outside FBI Office (Ch6)",
+                "access_rules": [
+                    "sheriffs_station_fuse, sheriffs_station_key, the_clicker"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 4 Outside FBI Office (Ch6)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 3211,
+                        "y": 818
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Lunchbox 2 Hill West of Cult Stash",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Lunchbox 2 Hill West of Cult Stash",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1827,
+                        "y": 890
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Lunchbox 3 North of Ranger Cabin",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Lunchbox 3 North of Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1767,
+                        "y": 1246
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Lunchbox 4 SW Valhalla Nursing Home",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Lunchbox 4 SW Valhalla Nursing Home",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 644,
+                        "y": 1042
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Lunchbox 5 Beach near Rhyme spot",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Lunchbox 5 Beach near Rhyme spot",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2051,
+                        "y": 1170
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Lunchbox 6 Boatyard",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Lunchbox 6 Boatyard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2474,
+                        "y": 1023
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Nursery Rhyme 1 W of Bunker Woods",
+                "access_rules": [
+                    "child_doll, mother_doll, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Nursery Rhyme 1 W of Bunker Woods",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1999,
+                        "y": 485
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Nursery Rhyme 2 Ranger Cabin",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, child_doll, monster_doll, roses_keyfob, screwdriver, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Nursery Rhyme 2 Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1713,
+                        "y": 1501
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Nursery Rhyme 3 Beach NE Ranger cabin",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, child_doll, monster_doll, mother_doll, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Nursery Rhyme 3 Beach NE Ranger cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2002,
+                        "y": 1320
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Nursery Rhyme 4 Billie's Boatyard",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, monster_doll, mother_doll, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Nursery Rhyme 4 Billie's Boatyard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2794,
+                        "y": 983
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Deer Head 3 Ranger Cabin",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, screwdriver, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Deer Head 3 Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1684,
+                        "y": 1471
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 4 W of Bunker Woods",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 4 W of Bunker Woods",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1812,
+                        "y": 457
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 5 South of Bunker Woods Break Room",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 5 South of Bunker Woods Break Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2002,
+                        "y": 846
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 6 SW Valhalla Nursing Home",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 6 SW Valhalla Nursing Home",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 769,
+                        "y": 1201
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 7 W of Ranger Cabin (Far)",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 7 W of Ranger Cabin (Far)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1158,
+                        "y": 1542
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Cult Stash 8 W of Ranger Cabin (Close)",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Cult Stash 8 W of Ranger Cabin (Close)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1480,
+                        "y": 1424
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 5 Bunker Woods Break Room",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 5 Bunker Woods Break Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2035,
+                        "y": 578
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 6 SW of Valhalla Nursing Home Near Lunchbox",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 6 SW of Valhalla Nursing Home Near Lunchbox",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 515,
+                        "y": 1084
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 7 Lower Bunker Woods Break Room",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 7 Lower Bunker Woods Break Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 871,
+                        "y": 1614
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 8 West of Ranger Cabin",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 8 West of Ranger Cabin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1309,
+                        "y": 1634
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Manuscript Page 9 Billie's Boat Yard",
+                "access_rules": [
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Manuscript Page 9 Billie's Boat Yard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2455,
+                        "y": 1014
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Chapter 4 Completion",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Chapter 4 Completion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 2093,
+                        "y": 538
+                    }
+                ]
+            },
+            {
+                "name": "Bright Falls Nursery Rhyme Child Doll - Bunker Woods",
+                "access_rules": [
+                    "west_bright_falls_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bright Falls Nursery Rhyme Child Doll - Bunker Woods",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "BrightFalls",
+                        "x": 1976,
+                        "y": 464
+                    }
+                ]
+            }
+        ]   
+    }
+]

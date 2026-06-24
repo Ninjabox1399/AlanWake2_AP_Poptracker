@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Include DLC",
+        "type": "toggle",
+        "img": "images/options/Include_DLC.png",
+        "codes": "Include_DLC"
+    }
+]
