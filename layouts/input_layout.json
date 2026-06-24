@@ -61,7 +61,8 @@
                         "sheriffs_station_key",
                         "sheriffs_station_fuse",
                         "the_clicker",
-                        "bullet_of_light"
+                        "bullet_of_light",
+                        "reload_flashlight_trap"
                     ]
                 ]
             }
