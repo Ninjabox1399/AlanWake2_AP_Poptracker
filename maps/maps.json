@@ -1,91 +1,91 @@
 [
     {
         "name": "CauldronLake",
-        "img": "images/maps/CauldronLake_3.png",
+        "img": "images/maps/CauldronLake_3.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "BrightFalls",
-        "img": "images/maps/BrightFalls_2.png",
+        "img": "images/maps/BrightFalls_2.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "SheriffsStation",
-        "img": "images/maps/SheriffStation.png",
+        "img": "images/maps/SheriffStation.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "Watery",
-        "img": "images/maps/Watery_2.png",
+        "img": "images/maps/Watery_2.jpg",
         "location_size": 80,
         "location_border_thickness": 1
     },
     {
         "name": "ValhallaManor",
-        "img": "images/maps/ValhallaNursingHome.png",
+        "img": "images/maps/ValhallaNursingHome.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "WellnessCenter",
-        "img": "images/maps/WellnessCenter.png",
+        "img": "images/maps/WellnessCenter.jpg",
         "location_size": 80,
         "location_border_thickness": 1
     },
     {
         "name": "DarkPlace",
-        "img": "images/maps/StreetMap.png",
+        "img": "images/maps/StreetMap.jpg",
         "location_size": 80,
         "location_border_thickness": 1
     },
     {
         "name": "TalkShowStudio",
-        "img": "images/maps/TalkShowStudio.png",
+        "img": "images/maps/TalkShowStudio.jpg",
         "location_size": 100,
         "location_border_thickness": 1
     },
     {
         "name": "CalderaStreetStation",
-        "img": "images/maps/CalderaStreetStation.png",
+        "img": "images/maps/CalderaStreetStation.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "OceanviewHotel",
-        "img": "images/maps/OceanviewHotel.png",
+        "img": "images/maps/OceanviewHotel.jpg",
         "location_size": 80,
         "location_border_thickness": 1
     },
     {
         "name": "PoetsCinema",
-        "img": "images/maps/PoetsCinema.png",
+        "img": "images/maps/PoetsCinema.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "Deerfest",
-        "img": "images/maps/Deerfest_2.png",
+        "img": "images/maps/Deerfest_2.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "NightSprings",
-        "img": "images/maps/CoffeeWorldDLC.png",
+        "img": "images/maps/CoffeeWorldDLC.jpg",
         "location_size": 100,
         "location_border_thickness": 1
     },
     {
         "name": "LakeHouse",
-        "img": "images/maps/LakeHouse.png",
+        "img": "images/maps/LakeHouse.jpg",
         "location_size": 60,
         "location_border_thickness": 1
     },
     {
         "name": "condensed_view",
-        "img": "images/maps/condensed_view.png",
+        "img": "images/maps/condensed_view.jpg",
         "location_size": 100,
         "location_border_thickness": 1
     }
