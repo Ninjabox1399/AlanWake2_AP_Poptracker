@@ -11,6 +11,14 @@
                 "Annotated maps with all the codes and puzzle solutions",
                 "Alan does a funny little dance as you get closer to goaling :)"
             ]
+        },
+        {
+            "package_version": "1.0.1",
+            "download_url": "https://github.com/Ninjabox1399/AlanWake2_AP_Poptracker/releases/download/v1.0.1/AlanWake2AP_poptracker_v1.0.1.zip",
+            "sha256": "82415d942139429c0dfa7b72152ca46e84bf9d9bf5c13548cd09e7665e1d6b09",
+            "changelog": [
+                "Replaced all the uncompressed map pngs with jpgs, reducing the file size by around 4 times."
+            ]
         }
     ]
 }
