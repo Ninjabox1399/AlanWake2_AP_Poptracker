@@ -19,6 +19,18 @@
             "changelog": [
                 "Replaced all the uncompressed map pngs with jpgs, reducing the file size by around 4 times."
             ]
+        },
+        {
+            "package_version": "1.0.2",
+            "download_url": "https://github.com/Ninjabox1399/AlanWake2_AP_Poptracker/releases/download/v1.0.2/AlanWake2_AP_Poptracker_v1.0.2.zip",
+            "sha256": "a82ba446cbbbbb433f7de67ed7d74d7215ca5a0adadcabb7b433466094f27ab9",
+            "changelog": [
+                "Added a broadcast view",
+                "Added an additional (larger) layout for 16:9 screens as well as keeping the original 16:10 one",
+                "Added red/green filters on the items to more easily distinguish when you receive one",
+                "Added the new Herald of Darkness trap and other miscellaneous items",
+                "Various bug fixes."
+            ]
         }
     ]
 }
