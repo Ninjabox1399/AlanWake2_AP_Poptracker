@@ -58,7 +58,7 @@ ITEM_MAPPING = {
     [57] = {"room_665_key", "toggle"},
     [58] = {"room_104_key", "toggle"},
     [59] = {"room_209_key", "toggle"},
-    [59] = {"room_101_key", "toggle"},
+    [60] = {"room_101_key", "toggle"},
     [61] = {"progressive_plot_(hotel)", "consumable"},
     [62] = {"movie_ticket", "toggle"},
     [63] = {"progressive_plot_(cinema)", "consumable"},
@@ -79,5 +79,7 @@ ITEM_MAPPING = {
     [78] = {"lake_house_progressive_keycard", "progressive"},
     [79] = {"lake_house_shotgun_unlock", "toggle"},
     [80] = {"lake_house_black_rock_launcher_unlock", "toggle"},
-    [81] = {"bullet_of_light", "toggle"},
+    [81] = {"reload_flashlight_trap", "consumable"},
+    [82] = {"bullet_of_light", "toggle"},
+    [83] = {"herald_of_darkness_irl_trap", "consumable"},
 }

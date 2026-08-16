@@ -1,0 +1,81 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "content": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "left",
+              "v_alignment": "center",
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Weapons and Upgrades",
+                  "dock": "left",
+                  "content": {
+                    "type": "layout",
+                    "key": "tracker_items"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Saga Key Items",
+                  "dock": "left",
+                  "content": {
+                    "type": "layout",
+                    "key": "item_grid_saga"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Alan Key Items",
+                  "dock": "left",
+                  "content": {
+                    "type": "layout",
+                    "key": "item_grid_alan"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "DLC Key Items",
+                  "dock": "left",
+                  "content": {
+                    "type": "layout",
+                    "key": "item_grid_dlc"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Miscellaneous Items",
+                  "dock": "left",
+                  "content": {
+                    "type": "layout",
+                    "key": "tracker_misc_items"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "v_alignment": "stretch",
+          "margin": "0, 0",
+          "content": [
+            {
+              "type": "layout",
+              "dock": "top",
+              "key": "tracker_map"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

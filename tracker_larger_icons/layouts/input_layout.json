@@ -2,7 +2,7 @@
     "weapons_and_upgrades": {
         "type": "itemgrid",
         "h_alignment": "center",
-        "item_size": 50,
+        "item_size": 60,
         "item_margin": "1,1",
         "rows": [
             [
@@ -37,7 +37,9 @@
                         "screwdriver",
                         "trailer_park_key",
                         "watery_fuse",
-                        "parade_float_completion_token"
+                        "parade_float_completion_token",
+                        "sheriffs_station_key",
+                        "sheriffs_station_fuse"
                     ],
                     [
                         "west_bright_falls_access",
@@ -47,21 +49,19 @@
                         "valhalla_manor_fuse",
                         "angers_remorse_record",
                         "tool_cabinet_key",
-                        "boltcutters"
+                        "boltcutters",
+                        "the_clicker",
+                        "bullet_of_light"
                     ]
                 ]
             },
             {
                 "type": "itemgrid",
                 "h_alignment": "center",
-                "item_size": 50,
+                "item_size": 70,
                 "item_margin": "1,1",
                 "rows": [
                     [
-                        "sheriffs_station_key",
-                        "sheriffs_station_fuse",
-                        "the_clicker",
-                        "bullet_of_light",
                         "reload_flashlight_trap",
                         "herald_of_darkness_irl_trap"
                     ]
@@ -77,7 +77,7 @@
             {
                 "type": "itemgrid",
                 "h_alignment": "center",
-                "item_size": 50,
+                "item_size": 60,
                 "item_margin": "1,1",
                 "rows": [
                     [
@@ -88,20 +88,10 @@
                         "night_springs_ep_2_warehouse_office_key",
                         "night_springs_episode_3_token",
                         "night_springs_polyhedron_reality_shifter",
-                        "night_springs_progressive_sen"
-                
-                    ]
-                ]
-            },
-            {
-                "type": "itemgrid",
-                "h_alignment": "center",
-                "item_size": 50,
-                "item_margin": "1,1",
-                "rows": [
-                    [
+                        "night_springs_progressive_sen",
                         "lake_house_estevezs_id_card",
                         "lake_house_progressive_keycard"
+                
                     ]
                 ]
             }
@@ -110,8 +100,8 @@
 
     "04_nursery_rhymes": {
         "type": "itemgrid",
-        "h_alignment": "center",
-        "item_size": 40,
+        "h_alignment": "left",
+        "item_size": 60,
         "item_margin": "1,1",
         "rows": [
             [
@@ -124,7 +114,11 @@
                 "bear_doll",
                 "mother_doll",
                 "child_doll",
-                "trickster_doll",
+                "trickster_doll"
+                
+                
+            ],
+            [
                 "maiden_doll",
                 "monster_doll"
             ]
@@ -132,9 +126,9 @@
     },
     "saga_charms": {
         "type": "itemgrid",
-        "h_alignment": "center",
-        "item_size": 35,
-        "item_margin": "0,0",
+        "h_alignment": "left",
+        "item_size": 60,
+        "item_margin": "1,1",
         "rows": [
             [
                 "logans_charm",
@@ -146,7 +140,11 @@
                 "lighthouse_charm",
                 "mr_drippy_charm",
                 "fbc_charm",
-                "lantern_charm",
+                "lantern_charm"
+                
+                
+            ],
+            [
                 "valhalla_nursing_home_charm",
                 "anchor_charm",
                 "deerfest_charm",

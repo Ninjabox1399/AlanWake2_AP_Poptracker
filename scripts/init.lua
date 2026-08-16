@@ -11,6 +11,7 @@ Tracker:AddLayouts("layouts/options_layout.json")
 Tracker:AddLayouts("layouts/input_layout.json")
 Tracker:AddLayouts("layouts/map_layouts.json")
 Tracker:AddLayouts("layouts/main.json")
+Tracker:AddLayouts("layouts/broadcast.json")
 
 Tracker:AddLocations("locations/cauldron_lake.json")
 Tracker:AddLocations("locations/sheriffs_station.json")
