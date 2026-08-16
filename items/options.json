@@ -2,7 +2,7 @@
     {
         "name": "Include DLC",
         "type": "toggle",
-        "img": "images/options/Include_DLC.png",
+        "img": "images/options/Include_DLC.jpg",
         "codes": "Include_DLC"
     }
 ]
