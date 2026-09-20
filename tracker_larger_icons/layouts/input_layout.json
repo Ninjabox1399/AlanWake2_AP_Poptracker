@@ -21,8 +21,17 @@
     },
     "item_grid_saga":{
         "type": "array",
-        "orientation": "vertical",
+        "orientation": "horizontal",
         "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_size": 120,
+                "item_margin": "1,1",
+                "rows": [
+                    ["saga_character_unlock"]
+                ]
+            },
             {
                 "type": "itemgrid",
                 "h_alignment": "center",
@@ -52,15 +61,7 @@
                         "boltcutters",
                         "the_clicker",
                         "bullet_of_light"
-                    ]
-                ]
-            },
-            {
-                "type": "itemgrid",
-                "h_alignment": "center",
-                "item_size": 70,
-                "item_margin": "1,1",
-                "rows": [
+                    ],
                     [
                         "reload_flashlight_trap",
                         "herald_of_darkness_irl_trap"
@@ -156,6 +157,15 @@
         "type": "array",
         "orientation": "horizontal",
         "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_size": 120,
+                "item_margin": "1,1",
+                "rows": [
+                    ["alan_character_unlock"]
+                ]
+            },
             {
                 "type": "itemgrid",
                 "h_alignment": "center",

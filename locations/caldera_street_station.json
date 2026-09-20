@@ -5,7 +5,7 @@
             {
                 "name": "Caldera Street Station Word of Gun 1 Platform Entrance",
                 "access_rules": [
-                    "angel_lamp, subway_pass"
+                    "alan_unlock_item, angel_lamp, subway_pass, alan_character_unlock"
                 ],
                 "sections": [
                     {
@@ -24,7 +24,7 @@
             {
                 "name": "Caldera Street Station Word of Aid 1 Main Tunnel",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):1, subway_pass"
                 ],
                 "sections": [
                     {
@@ -43,7 +43,7 @@
             {
                 "name": "Caldera Street Station Word of Lamp 1 West Main Tunnel Side Room",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):1, subway_pass"
                 ],
                 "sections": [
                     {
@@ -62,7 +62,7 @@
             {
                 "name": "Caldera Street Station Word of War 1 Top of Abandoned Station",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):1, subway_pass"
                 ],
                 "sections": [
                     {
@@ -81,7 +81,7 @@
             {
                 "name": "Caldera Street Station Word of Action 1 Behind Breakable Wall",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):3, subway_pass"
                 ],
                 "sections": [
                     {
@@ -100,7 +100,7 @@
             {
                 "name": "Caldera Street Station Word of Fix 1 West Wall Abandoned Station",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):3, subway_pass"
                 ],
                 "sections": [
                     {
@@ -119,7 +119,7 @@
             {
                 "name": "Caldera Street Station Word of Lamp 2 West Shrine St",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):3, subway_pass"
                 ],
                 "sections": [
                     {
@@ -138,7 +138,7 @@
             {
                 "name": "Caldera Street Station Word of Gun 2 Shrine St",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):3, subway_pass"
                 ],
                 "sections": [
                     {
@@ -157,7 +157,7 @@
             {
                 "name": "Caldera Street Station Word of Action 2 Shrine St",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):4, subway_pass"
                 ],
                 "sections": [
                     {
@@ -176,7 +176,7 @@
             {
                 "name": "Caldera Street Station Word of Fix 2 Main Tunnel Shortcut from Shrine St",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):4, subway_pass"
                 ],
                 "sections": [
                     {
@@ -195,7 +195,7 @@
             {
                 "name": "Caldera Street Station Echo 1 Platform Entrance",
                 "access_rules": [
-                    "angel_lamp, subway_pass"
+                    "alan_unlock_item, angel_lamp, subway_pass"
                 ],
                 "sections": [
                     {
@@ -214,7 +214,7 @@
             {
                 "name": "Caldera Street Station Echo 2 Collapsed Tunnel FBI Agent",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):1, subway_pass"
                 ],
                 "sections": [
                     {
@@ -233,7 +233,7 @@
             {
                 "name": "Caldera Street Station Echo 3 Main Tunnel after Light Shift",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):1, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):1, subway_pass"
                 ],
                 "sections": [
                     {
@@ -252,7 +252,7 @@
             {
                 "name": "Caldera Street Station Echo 4 Abandoned Station",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):2, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):2, subway_pass"
                 ],
                 "sections": [
                     {
@@ -271,7 +271,7 @@
             {
                 "name": "Caldera Street Station Echo 5 Shrine St Station",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):3, subway_pass"
                 ],
                 "sections": [
                     {
@@ -290,7 +290,7 @@
             {
                 "name": "Caldera Street Station Echo 6 North Shrine St Station",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):4, subway_pass"
                 ],
                 "sections": [
                     {
@@ -309,7 +309,7 @@
             {
                 "name": "Caldera Street Station Echo 7 Collapsed Tunnel Torchbearers",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):3, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):3, subway_pass"
                 ],
                 "sections": [
                     {
@@ -328,7 +328,7 @@
             {
                 "name": "Caldera Street Station Echo 8 Collapsed Tunnel Summoning Ritual",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):4, subway_pass"
                 ],
                 "sections": [
                     {
@@ -347,7 +347,7 @@
             {
                 "name": "Caldera Street Station Chapter 2 Completion",
                 "access_rules": [
-                    "angel_lamp, progressive_plot_(subway):4, subway_pass"
+                    "alan_unlock_item, angel_lamp, progressive_plot_(subway):4, subway_pass"
                 ],
                 "sections": [
                     {

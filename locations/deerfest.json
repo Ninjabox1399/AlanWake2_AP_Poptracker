@@ -4,7 +4,7 @@
         "children": [
             {
                 "name": "Deerfest Return Book Location",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Deerfest Return Book Location",
@@ -22,7 +22,7 @@
             {
                 "name": "Deerfest Chapter 8 Completion",
                 "access_rules": [
-                    "return_by_alan_wake, west_bright_falls_access"
+                    "return_by_alan_wake, west_bright_falls_access, alan_character_unlock"
                 ],
                 "sections": [
                     {
@@ -41,7 +41,7 @@
             {
                 "name": "Deerfest Echo Writers Room",
                 "access_rules": [
-                    "return_by_alan_wake, west_bright_falls_access"
+                    "return_by_alan_wake, west_bright_falls_access, alan_character_unlock"
                 ],
                 "sections": [
                     {

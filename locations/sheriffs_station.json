@@ -5,7 +5,7 @@
             {
                 "name": "Sheriff's Station Cult Stash",
                 "access_rules": [
-                    "boltcutters, sheriffs_station_key"
+                    "saga_character_unlock, boltcutters, sheriffs_station_key"
                 ],
                 "sections": [
                     {
@@ -23,7 +23,7 @@
             },
             {
                 "name": "Sheriff's Station Key",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Sheriff's Station Key",
@@ -41,7 +41,7 @@
             {
                 "name": "Sheriff's Station Pump-Action Shotgun",
                 "access_rules": [
-                    "sheriffs_station_key, the_clicker"
+                    "saga_character_unlock, sheriffs_station_key, the_clicker"
                 ],
                 "sections": [
                     {
@@ -60,7 +60,7 @@
             {
                 "name": "Sheriff's Station Fuse",
                 "access_rules": [
-                    "sheriffs_station_key"
+                    "saga_character_unlock, sheriffs_station_key"
                 ],
                 "sections": [
                     {
@@ -78,7 +78,7 @@
             },
             {
                 "name": "Sheriff's Station Manuscript Page 1 Nightingale",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Sheriff's Station Manuscript Page 1 Nightingale",
@@ -95,7 +95,7 @@
             },
             {
                 "name": "Sheriff's Station Manuscript Page 2 Autopsy Room",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Sheriff's Station Manuscript Page 2 Autopsy Room",
@@ -113,7 +113,7 @@
             {
                 "name": "Sheriff's Station Manuscript Page 3 Prison Cell",
                 "access_rules": [
-                    "sheriffs_station_fuse, sheriffs_station_key, the_clicker"
+                    "saga_character_unlock, sheriffs_station_fuse, sheriffs_station_key, the_clicker"
                 ],
                 "sections": [
                     {
@@ -132,7 +132,7 @@
             {
                 "name": "Sheriff's Station Chapter 6 Completion",
                 "access_rules": [
-                    "sheriffs_station_fuse, sheriffs_station_key, the_clicker"
+                    "saga_character_unlock, sheriffs_station_fuse, sheriffs_station_key, the_clicker"
                 ],
                 "sections": [
                     {
@@ -150,7 +150,7 @@
             },
             {
                 "name": "Sheriff's Station Chapter 1 Completion",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Sheriff's Station Chapter 1 Completion",

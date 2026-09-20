@@ -5,7 +5,7 @@
             {
                 "name": "Wellness Center Manuscript Page 1 Patient Room",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -24,7 +24,7 @@
             {
                 "name": "Wellness Center Manuscript Page 2 Examination Rooms",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -43,7 +43,7 @@
             {
                 "name": "Wellness Center Manuscript Page 3 Workshop",
                 "access_rules": [
-                    "door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -62,7 +62,7 @@
             {
                 "name": "Wellness Center Door Knob",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -81,7 +81,7 @@
             {
                 "name": "Wellness Center Hunting Rifle",
                 "access_rules": [
-                    "door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -100,7 +100,7 @@
             {
                 "name": "Wellness Center Deer Head 1 Workshop",
                 "access_rules": [
-                    "door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, door_knob, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -119,7 +119,7 @@
             {
                 "name": "Valhalla Manor Lunchbox 1 First Floor Office",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -138,7 +138,7 @@
             {
                 "name": "Valhalla Manor Deer Head 1 Lounge",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -157,7 +157,7 @@
             {
                 "name": "Valhalla Manor Fuse",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -176,7 +176,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 1 Stairwell after Rose",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -195,7 +195,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 2 Basement Work Space",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -214,7 +214,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 3 Basement Boiler Room",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -233,7 +233,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 4 Basement Laundry Room",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -252,7 +252,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 5 Gail's Room",
                 "access_rules": [
-                    "roses_keyfob, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, roses_keyfob, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -271,7 +271,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 6 Cynthia's Room",
                 "access_rules": [
-                    "roses_keyfob, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, roses_keyfob, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -290,7 +290,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 7 Valhalla Nursing Home Arrival",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "saga_character_unlock, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -309,7 +309,7 @@
             {
                 "name": "Valhalla Manor Rose Conversation",
                 "access_rules": [
-                    "valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -332,7 +332,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 9 Valhalla Bridge after Cynthia",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -351,7 +351,7 @@
             {
                 "name": "Valhalla Manor Manuscript Page 10 Valhalla Pavillion after Cynthia",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -370,7 +370,7 @@
             {
                 "name": "Valhalla Manor Anger's Remorse Record",
                 "access_rules": [
-                    "roses_keyfob, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, roses_keyfob, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {
@@ -389,7 +389,7 @@
             {
                 "name": "Valhalla Manor Chapter Overlap",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "saga_character_unlock, angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
                 ],
                 "sections": [
                     {

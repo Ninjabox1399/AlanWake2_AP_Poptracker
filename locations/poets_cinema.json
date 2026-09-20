@@ -5,7 +5,7 @@
             {
                 "name": "Poet's Cinema Word of Fix 1 Upstairs from Break Room",
                 "access_rules": [
-                    "movie_ticket"
+                    "alan_character_unlock, movie_ticket"
                 ],
                 "sections": [
                     {
@@ -24,7 +24,7 @@
             {
                 "name": "Poet's Cinema Word of Action 1 Behind Bathroom Right of Lobby",
                 "access_rules": [
-                    "movie_ticket"
+                    "alan_character_unlock, movie_ticket"
                 ],
                 "sections": [
                     {
@@ -43,7 +43,7 @@
             {
                 "name": "Poet's Cinema Word of Lamp 1 Rooftop Near Tim Breaker",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):3"
                 ],
                 "sections": [
                     {
@@ -62,7 +62,7 @@
             {
                 "name": "Poet's Cinema Word of Stuff 1 Rooftop Spotlights",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):3"
                 ],
                 "sections": [
                     {
@@ -81,7 +81,7 @@
             {
                 "name": "Poet's Cinema Echo 1 Concession Stand Top Floor",
                 "access_rules": [
-                    "movie_ticket"
+                    "alan_character_unlock, movie_ticket"
                 ],
                 "sections": [
                     {
@@ -100,7 +100,7 @@
             {
                 "name": "Poet's Cinema Echo 2 Behind Concession Stand",
                 "access_rules": [
-                    "movie_ticket, progressive_plot_(cinema):1"
+                    "alan_character_unlock, movie_ticket, progressive_plot_(cinema):1"
                 ],
                 "sections": [
                     {
@@ -119,7 +119,7 @@
             {
                 "name": "Poet's Cinema Echo 3 Theatre Screen",
                 "access_rules": [
-                    "movie_ticket, progressive_plot_(cinema):2"
+                    "alan_character_unlock, movie_ticket, progressive_plot_(cinema):2"
                 ],
                 "sections": [
                     {
@@ -138,7 +138,7 @@
             {
                 "name": "Poet's Cinema Echo 4 Top of Screening Room in Light Shift",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):2"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):2"
                 ],
                 "sections": [
                     {
@@ -157,7 +157,7 @@
             {
                 "name": "Poet's Cinema Echo 5 Garage New York's Finest Scene",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):3"
                 ],
                 "sections": [
                     {
@@ -176,7 +176,7 @@
             {
                 "name": "Poet's Cinema Echo 6 Rooftop Cult of the Word Scene",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):3"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):3"
                 ],
                 "sections": [
                     {
@@ -195,7 +195,7 @@
             {
                 "name": "Poet's Cinema Echo 7 Projector Room",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):4"
                 ],
                 "sections": [
                     {
@@ -214,7 +214,7 @@
             {
                 "name": "Poet's Cinema Echo 8 Concession Stand Post Chapter 8",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):4"
                 ],
                 "sections": [
                     {
@@ -233,7 +233,7 @@
             {
                 "name": "Poet's Cinema Chapter 8 Completion",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):4"
                 ],
                 "sections": [
                     {
@@ -252,7 +252,7 @@
             {
                 "name": "Poet's Cinema Knife",
                 "access_rules": [
-                    "angel_lamp, movie_ticket, progressive_plot_(cinema):4"
+                    "alan_character_unlock, angel_lamp, movie_ticket, progressive_plot_(cinema):4"
                 ],
                 "sections": [
                     {

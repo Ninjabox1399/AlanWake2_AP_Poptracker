@@ -4,7 +4,7 @@
         "children": [
             {
                 "name": "Dark Place Phone Booth",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Subway Pass",
@@ -26,7 +26,7 @@
             {
                 "name": "Dark Place Double-Barelled Shotgun",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -44,7 +44,7 @@
             },
             {
                 "name": "Dark Place Word of Fix 1 Outside Studio",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Word of Fix 1 Outside Studio",
@@ -61,7 +61,7 @@
             },
             {
                 "name": "Dark Place Word of Action 1 Draft Street Under Bridge",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Word of Action 1 Draft Street Under Bridge",
@@ -79,7 +79,7 @@
             {
                 "name": "Dark Place Word of Fix 2 Alley after Casey",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -98,7 +98,7 @@
             {
                 "name": "Dark Place Word of Lamp 1 High-Line Station Behind Air Conditioner",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -117,7 +117,7 @@
             {
                 "name": "Dark Place Word of War 1 High-Line Station Scaffold near Police Car",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -136,7 +136,7 @@
             {
                 "name": "Dark Place Word of Gun 1 High-Line Station near Police Car",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -155,7 +155,7 @@
             {
                 "name": "Dark Place Word of Aid 1 Alley Rooftop",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -174,7 +174,7 @@
             {
                 "name": "Dark Place Word of Lamp 2 Water Tower",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -193,7 +193,7 @@
             {
                 "name": "Dark Place Word of Gun 2 Alley Rooftop Under Stairs",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -211,7 +211,7 @@
             },
             {
                 "name": "Dark Place Word of Aid 2 Alley Rooftop High on Wall (Ch5)",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Word of Aid 2 Alley Rooftop High on Wall (Ch5)",
@@ -229,7 +229,7 @@
             {
                 "name": "Dark Place Word of Aid 3 Tunnel Right of Poet's Cinema",
                 "access_rules": [
-                    "movie_ticket"
+                    "alan_character_unlock, movie_ticket"
                 ],
                 "sections": [
                     {
@@ -247,7 +247,7 @@
             },
             {
                 "name": "Dark Place Manuscript Page Saga",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Manuscript Page Saga",
@@ -265,7 +265,7 @@
             {
                 "name": "Dark Place Echo 1 High-Line Station Casey Billboard 1",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -284,7 +284,7 @@
             {
                 "name": "Dark Place Echo 2 High-Line Station Casey Billboard 2",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -302,7 +302,7 @@
             },
             {
                 "name": "Dark Place Echo 3 Parliament Tower Lobby",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Echo 3 Parliament Tower Lobby",
@@ -320,7 +320,7 @@
             {
                 "name": "Dark Place Echo 4 Alley Rooftop Casey Billboard 3",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -339,7 +339,7 @@
             {
                 "name": "Dark Place Echo 5 Alley Rooftop Casey Billboard 4",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -357,7 +357,7 @@
             },
             {
                 "name": "Dark Place Echo 6 Ocean Ave Chapter 7",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Echo 6 Ocean Ave Chapter 7",
@@ -374,7 +374,7 @@
             },
             {
                 "name": "Dark Place Echo 7 Outside Oceanview Hotel Chapter 5",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Dark Place Echo 7 Outside Oceanview Hotel Chapter 5",
@@ -392,7 +392,7 @@
             {
                 "name": "Dark Place Echo 8 Poet's Cinema Casey Billboard 5",
                 "access_rules": [
-                    "movie_ticket"
+                    "alan_character_unlock, movie_ticket"
                 ],
                 "sections": [
                     {
@@ -411,7 +411,7 @@
             {
                 "name": "Dark Place Echo 9 Poet's Cinema Casey Billboard 6",
                 "access_rules": [
-                    "movie_ticket"
+                    "alan_character_unlock, movie_ticket"
                 ],
                 "sections": [
                     {
@@ -430,7 +430,7 @@
             {
                 "name": "Dark Place Saga Clicker and Bullet of Light",
                 "access_rules": [
-                    "alices_photographs, the_clicker"
+                    "saga_character_unlock, alices_photographs, the_clicker"
                 ],
                 "sections": [
                     {
@@ -449,7 +449,7 @@
             {
                 "name": "Dark Place Saga Chapter 9 Completion",
                 "access_rules": [
-                    "alices_photographs, the_clicker, bullet_of_light"
+                    "saga_character_unlock, alices_photographs, the_clicker, bullet_of_light"
                 ],
                 "sections": [
                     {

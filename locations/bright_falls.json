@@ -4,7 +4,7 @@
         "children": [
             {
                 "name": "Bright Falls Lunchbox 1 Founders' Park",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Bright Falls Lunchbox 1 Founders' Park",
@@ -21,7 +21,7 @@
             },
             {
                 "name": "Bright Falls Deer Head 1 Diner",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Bright Falls Deer Head 1 Diner",
@@ -38,7 +38,7 @@
             },
             {
                 "name": "Bright Falls Deer Head 2 FBI Office",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Bright Falls Deer Head 2 FBI Office",
@@ -55,7 +55,7 @@
             },
             {
                 "name": "Bright Falls Cult Stash 1 FBI Field Office",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Bright Falls Cult Stash 1 FBI Field Office",
@@ -73,7 +73,7 @@
             {
                 "name": "Bright Falls Cult Stash 2 Behind Diner",
                 "access_rules": [
-                    "boltcutters"
+                    "boltcutters, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -92,7 +92,7 @@
             {
                 "name": "Bright Falls Cult Stash 3 Pier",
                 "access_rules": [
-                    "boltcutters"
+                    "boltcutters, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -110,7 +110,7 @@
             },
             {
                 "name": "Bright Falls Manuscript Page 1 FBI Office (Given at Ch3 Start)",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Bright Falls Manuscript Page 1 FBI Office (Given at Ch3 Start)",
@@ -127,7 +127,7 @@
             },
             {
                 "name": "Bright Falls Manuscript Page 2 Lodge Room (Ch3)",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Bright Falls Manuscript Page 2 Lodge Room (Ch3)",
@@ -144,7 +144,7 @@
             },
             {
                 "name": "Bright Falls Manuscript Page 3 Lodge Room (Ch3)",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Bright Falls Manuscript Page 3 Lodge Room (Ch3)",
@@ -162,7 +162,7 @@
             {
                 "name": "Bright Falls Manuscript Page 4 Outside FBI Office (Ch6)",
                 "access_rules": [
-                    "sheriffs_station_fuse, sheriffs_station_key, the_clicker"
+                    "sheriffs_station_fuse, sheriffs_station_key, the_clicker, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -181,7 +181,7 @@
             {
                 "name": "Bright Falls Lunchbox 2 Hill West of Cult Stash",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -200,7 +200,7 @@
             {
                 "name": "Bright Falls Lunchbox 3 North of Ranger Cabin",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -219,7 +219,7 @@
             {
                 "name": "Bright Falls Lunchbox 4 SW Valhalla Nursing Home",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -238,7 +238,7 @@
             {
                 "name": "Bright Falls Lunchbox 5 Beach near Rhyme spot",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -257,7 +257,7 @@
             {
                 "name": "Bright Falls Lunchbox 6 Boatyard",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -276,7 +276,7 @@
             {
                 "name": "Bright Falls Nursery Rhyme 1 W of Bunker Woods",
                 "access_rules": [
-                    "child_doll, mother_doll, west_bright_falls_access"
+                    "child_doll, mother_doll, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -295,7 +295,7 @@
             {
                 "name": "Bright Falls Nursery Rhyme 2 Ranger Cabin",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, child_doll, monster_doll, roses_keyfob, screwdriver, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, child_doll, monster_doll, roses_keyfob, screwdriver, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -314,7 +314,7 @@
             {
                 "name": "Bright Falls Nursery Rhyme 3 Beach NE Ranger cabin",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, child_doll, monster_doll, mother_doll, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, child_doll, monster_doll, mother_doll, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -333,7 +333,7 @@
             {
                 "name": "Bright Falls Nursery Rhyme 4 Billie's Boatyard",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, monster_doll, mother_doll, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, monster_doll, mother_doll, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -352,7 +352,7 @@
             {
                 "name": "Bright Falls Deer Head 3 Ranger Cabin",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, screwdriver, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, screwdriver, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -371,7 +371,7 @@
             {
                 "name": "Bright Falls Cult Stash 4 W of Bunker Woods",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -390,7 +390,7 @@
             {
                 "name": "Bright Falls Cult Stash 5 South of Bunker Woods Break Room",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -409,7 +409,7 @@
             {
                 "name": "Bright Falls Cult Stash 6 SW Valhalla Nursing Home",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -428,7 +428,7 @@
             {
                 "name": "Bright Falls Cult Stash 7 W of Ranger Cabin (Far)",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -447,7 +447,7 @@
             {
                 "name": "Bright Falls Cult Stash 8 W of Ranger Cabin (Close)",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -466,7 +466,7 @@
             {
                 "name": "Bright Falls Manuscript Page 5 Bunker Woods Break Room",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -485,7 +485,7 @@
             {
                 "name": "Bright Falls Manuscript Page 6 SW of Valhalla Nursing Home Near Lunchbox",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -504,7 +504,7 @@
             {
                 "name": "Bright Falls Manuscript Page 7 Lower Bunker Woods Break Room",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -523,7 +523,7 @@
             {
                 "name": "Bright Falls Manuscript Page 8 West of Ranger Cabin",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -542,7 +542,7 @@
             {
                 "name": "Bright Falls Manuscript Page 9 Billie's Boat Yard",
                 "access_rules": [
-                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access"
+                    "angers_remorse_record, boltcutters, roses_keyfob, tool_cabinet_key, valhalla_manor_fuse, valhalla_nursing_home_appointment, west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -561,7 +561,7 @@
             {
                 "name": "Bright Falls Chapter 4 Completion",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {
@@ -580,7 +580,7 @@
             {
                 "name": "Bright Falls Nursery Rhyme Child Doll - Bunker Woods",
                 "access_rules": [
-                    "west_bright_falls_access"
+                    "west_bright_falls_access, saga_character_unlock"
                 ],
                 "sections": [
                     {

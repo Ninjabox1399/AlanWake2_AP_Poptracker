@@ -4,7 +4,7 @@
         "children": [
             {
                 "name": "Talk Show Studio Janitor's Key",
-                "access_rules": [],
+                "access_rules": ["alan_character_unlock"],
                 "sections": [
                     {
                         "name": "Talk Show Studio Janitor's Key",
@@ -22,7 +22,7 @@
             {
                 "name": "Talk Show Studio Basement Shoebox",
                 "access_rules": [
-                    "janitors_key"
+                    "alan_character_unlock, janitors_key"
                 ],
                 "sections": [
                     {
@@ -45,7 +45,7 @@
             {
                 "name": "Talk Show Studio Chapter Chapter Completions",
                 "access_rules": [
-                    "angel_lamp"
+                    "alan_character_unlock, angel_lamp"
                 ],
                 "sections": [
                     {
@@ -69,7 +69,7 @@
             {
                 "name": "Talk Show Studio Flare Gun",
                 "access_rules": [
-                    "angel_lamp, progressive_verse_3"
+                    "alan_character_unlock, angel_lamp, progressive_verse_3"
                 ],
                 "sections": [
                     {
@@ -88,7 +88,7 @@
             {
                 "name": "GOAL - Talk Show Studio Chapter 4 Completion",
                 "access_rules": [
-                    "angel_lamp, progressive_verse_5"
+                    "alan_character_unlock, angel_lamp, progressive_verse_5"
                 ],
                 "sections": [
                     {
@@ -108,7 +108,7 @@
             {
                 "name": "Talk Show Studio Echo 1 Jazz Section",
                 "access_rules": [
-                    "angel_lamp, progressive_verse_4"
+                    "alan_character_unlock, angel_lamp, progressive_verse_4"
                 ],
                 "sections": [
                     {

@@ -4,7 +4,7 @@
         "children": [
             {
                 "name": "Cauldron Lake Lunchbox 1 Mortar Falls",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Lunchbox 1 Mortar Falls",
@@ -22,7 +22,7 @@
             },
             {
                 "name": "Cauldron Lake Lunchbox 2 Above General Store",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Lunchbox 2 Above General Store",
@@ -39,7 +39,7 @@
             },
             {
                 "name": "Cauldron Lake Lunchbox 3 SW murder site",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Lunchbox 3 SW murder site",
@@ -56,7 +56,7 @@
             },
             {
                 "name": "Cauldron Lake Lunchbox 4 Witch's Hut",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Lunchbox 4 Witch's Hut",
@@ -73,7 +73,7 @@
             },
             {
                 "name": "Cauldron Lake Lunchbox 5 Shortcut Key",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Lunchbox 5 Shortcut Key",
@@ -91,7 +91,7 @@
             {
                 "name": "Cauldron Lake Lunchbox 6 Witchfinders Station",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -110,7 +110,7 @@
             {
                 "name": "Cauldron Lake Lunchbox 7 Upstream",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -129,7 +129,7 @@
             {
                 "name": "Cauldron Lake Lunchbox 8 Rental Cabins",
                 "access_rules": [
-                    "boltcutters"
+                    "saga_character_unlock, boltcutters"
                 ],
                 "sections": [
                     {
@@ -148,7 +148,7 @@
             {
                 "name": "Cauldron Lake Nightingale's Heart",
                 "access_rules": [
-                    "cauldron_lake_fuse"
+                    "saga_character_unlock, cauldron_lake_fuse"
                 ],
                 "sections": [
                     {
@@ -167,7 +167,7 @@
             {
                 "name": "Cauldron Lake Sawed Off Shotgun",
                 "access_rules": [
-                    "cauldron_lake_fuse"
+                    "saga_character_unlock, cauldron_lake_fuse"
                 ],
                 "sections": [
                     {
@@ -186,7 +186,7 @@
             {
                 "name": "Cauldron Lake Inventory Upgrade (General Store)",
                 "access_rules": [
-                    "cauldron_lake_fuse"
+                    "saga_character_unlock, cauldron_lake_fuse"
                 ],
                 "sections": [
                     {
@@ -204,7 +204,7 @@
             },
             {
                 "name": "Cauldron Lake Logan's Charm (Starting Check)",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Logan's Charm (Starting Check)",
@@ -222,7 +222,7 @@
             {
                 "name": "Cauldron Lake Nursery Rhyme 1 Picnic Area",
                 "access_rules": [
-                    "cauldron_lake_fuse, crow_doll, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, crow_doll, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -241,7 +241,7 @@
             {
                 "name": "Cauldron Lake Nursery Rhyme 2 Witchfinders Station",
                 "access_rules": [
-                    "cauldron_lake_fuse, hero_doll, nightingales_heart, wolf_doll"
+                    "saga_character_unlock, cauldron_lake_fuse, hero_doll, nightingales_heart, wolf_doll"
                 ],
                 "sections": [
                     {
@@ -260,7 +260,7 @@
             {
                 "name": "Cauldron Lake Nursery Rhyme 3 Private Cabin",
                 "access_rules": [
-                    "cauldron_lake_fuse, crow_doll, hero_doll, nightingales_heart, wolf_doll"
+                    "saga_character_unlock, cauldron_lake_fuse, crow_doll, hero_doll, nightingales_heart, wolf_doll"
                 ],
                 "sections": [
                     {
@@ -279,7 +279,7 @@
             {
                 "name": "Cauldron Lake Nursery Rhyme 4 Rental Cabins",
                 "access_rules": [
-                    "boltcutters, crow_doll, hero_doll, monster_doll"
+                    "saga_character_unlock, boltcutters, crow_doll, hero_doll, monster_doll"
                 ],
                 "sections": [
                     {
@@ -297,7 +297,7 @@
             },
             {
                 "name": "Cauldron Lake Deer Head 1 Cabin S of Store",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Deer Head 1 Cabin S of Store",
@@ -315,7 +315,7 @@
             {
                 "name": "Cauldron Lake Deer Head 2 Witchfinders Station",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -334,7 +334,7 @@
             {
                 "name": "Cauldron Lake Deer Head 3 Rental Cabins",
                 "access_rules": [
-                    "boltcutters, crow_doll, hero_doll, monster_doll"
+                    "saga_character_unlock, boltcutters, crow_doll, hero_doll, monster_doll"
                 ],
                 "sections": [
                     {
@@ -352,7 +352,7 @@
             },
             {
                 "name": "Cauldron Lake Cult Stash 1 Cabin S of Store",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Cult Stash 1 Cabin S of Store",
@@ -370,7 +370,7 @@
             {
                 "name": "Cauldron Lake Cult Stash 2 Beach after Nightingale",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -389,7 +389,7 @@
             {
                 "name": "Cauldron Lake Cult Stash 3 Streamside Stash",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -408,7 +408,7 @@
             {
                 "name": "Cauldron Lake Cult Stash 4 Private Cabin",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -427,7 +427,7 @@
             {
                 "name": "Cauldron Lake Cult Stash 5 Rental Cabins",
                 "access_rules": [
-                    "boltcutters"
+                    "saga_character_unlock, boltcutters"
                 ],
                 "sections": [
                     {
@@ -445,7 +445,7 @@
             },
             {
                 "name": "Cauldron Lake Manuscript Pages Witch's Ladle",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Manuscript Page 1 Witch's Ladle",
@@ -467,7 +467,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 3 Witch's Hut",
                 "access_rules": [
-                    "cauldron_lake_fuse"
+                    "saga_character_unlock, cauldron_lake_fuse"
                 ],
                 "sections": [
                     {
@@ -486,7 +486,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 4 General Store",
                 "access_rules": [
-                    "cauldron_lake_fuse"
+                    "saga_character_unlock, cauldron_lake_fuse"
                 ],
                 "sections": [
                     {
@@ -505,7 +505,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 5 Overlap Loop 2",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -524,7 +524,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 6 Overlap Loop 3",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -543,7 +543,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 7 Path after Nightingale",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -562,7 +562,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 8 Table near Streamside Stash",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -581,7 +581,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 9 Private Cabin",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -600,7 +600,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 10 Witchfinders Station",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -619,7 +619,7 @@
             {
                 "name": "Cauldron Lake Manuscript Page 11 Rental Cabins",
                 "access_rules": [
-                    "boltcutters"
+                    "saga_character_unlock, boltcutters"
                 ],
                 "sections": [
                     {
@@ -637,7 +637,7 @@
             },
             {
                 "name": "Cauldron Lake Fuse",
-                "access_rules": [],
+                "access_rules": ["saga_character_unlock"],
                 "sections": [
                     {
                         "name": "Cauldron Lake Fuse",
@@ -655,7 +655,7 @@
             {
                 "name": "Cauldron Lake Overlap",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -696,7 +696,7 @@
             {
                 "name": "Cauldron Lake Chapter 7 Completion",
                 "access_rules": [
-                    "the_clicker"
+                    "saga_character_unlock, the_clicker"
                 ],
                 "sections": [
                     {
@@ -715,7 +715,7 @@
             {
                 "name": "Cauldron Lake Nursery Rhyme Crow Doll - Picnic Area",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -734,7 +734,7 @@
             {
                 "name": "Cauldron Lake Nursery Rhyme Hero Doll - Witchfinders Station",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {
@@ -753,7 +753,7 @@
             {
                 "name": "Cauldron Lake Nursery Rhyme Wolf Doll - Witchfinders Station",
                 "access_rules": [
-                    "cauldron_lake_fuse, nightingales_heart"
+                    "saga_character_unlock, cauldron_lake_fuse, nightingales_heart"
                 ],
                 "sections": [
                     {

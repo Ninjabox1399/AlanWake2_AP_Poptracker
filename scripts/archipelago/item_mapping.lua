@@ -82,4 +82,6 @@ ITEM_MAPPING = {
     [81] = {"reload_flashlight_trap", "consumable"},
     [82] = {"bullet_of_light", "toggle"},
     [83] = {"herald_of_darkness_irl_trap", "consumable"},
+    [84] = {"saga_character_unlock", "toggle"},
+    [85] = {"alan_character_unlock", "toggle"},
 }
