@@ -31,6 +31,15 @@
                 "Added the new Herald of Darkness trap and other miscellaneous items",
                 "Various bug fixes."
             ]
+        },
+        {
+            "package_version": "1.0.3",
+            "download_url": "https://github.com/Ninjabox1399/AlanWake2_AP_Poptracker/releases/download/v1.0.3/AlanWake2_AP_Poptracker_v1.0.3.zip",
+            "sha256": "9c3a14ed9bb4d1ae56984f8a96c073a9d893eda918e68669f71414327f90cd90",
+            "changelog": [
+                "Tracker compatible with version 0.0.9 of the AP",
+                "Introduces the option to start as either Saga or Alan, needing to unlock the other through the multiworld"
+            ]
         }
     ]
 }
