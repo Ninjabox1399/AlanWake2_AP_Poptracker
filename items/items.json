@@ -784,5 +784,21 @@
         "type": "consumable",
         "img": "images/items/DanceTrap.jpg",
         "codes": "herald_of_darkness_irl_trap"
+    },
+    {
+        "name": "Saga Character Unlock",
+        "type": "toggle",
+        "img": "images/items/main_05_clue_saga_profile.png",
+        "codes": "saga_character_unlock",
+        "img_mods": "overlay|images/items/enabled_image.png",
+        "disabled_img_mods": "overlay|images/items/disabled_image.png"
+    },
+    {
+        "name": "Alan Character Unlock",
+        "type": "toggle",
+        "img": "images/items/character_wake.png",
+        "codes": "alan_character_unlock",
+        "img_mods": "overlay|images/items/enabled_image.png",
+        "disabled_img_mods": "overlay|images/items/disabled_image.png"
     }
 ]
