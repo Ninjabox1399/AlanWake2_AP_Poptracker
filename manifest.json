@@ -2,15 +2,19 @@
     "name": "Alan Wake 2 for Archipelago (Manual)",
     "game_name": "Manual_AlanWake2_Ninjabox",
     "author": "Ninjabox",
-    "package_version": "1.0.0",
+    "package_version": "1.0.3",
     "package_uid": "Manual_AlanWake2_Ninjabox",
     "variants": {
         "standard": {
-            "display_name": "Map Tracker",
+            "display_name": "Map Tracker (Compact)",
             "flags": [
                 "apmanual"
             ]
-        }
+        },
+        "tracker_larger_icons": {
+			"display_name": "Map Tracker (Larger)",
+			"flags": ["apmanual"]
+		}
     },
     "versions_url": "https://raw.githubusercontent.com/Ninjabox1399/AlanWake2_AP_Poptracker/main/versions.json",
     "min_poptracker_version": "0.23.1",
