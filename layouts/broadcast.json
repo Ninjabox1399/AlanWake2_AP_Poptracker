@@ -53,6 +53,7 @@
 										"item_margin": "1, 1",
 										"h_alignment": "center",
 										"rows": [
+											["saga_character_unlock", ""],
 											["cauldron_lake_fuse", "nightingales_heart"],
 											["watery_location_unlock", "coffee_world_entrance_token"],
 											["screwdriver", "trailer_park_key"],
@@ -76,6 +77,7 @@
 										"item_margin": "1, 1",
 										"h_alignment": "center",
 										"rows": [
+											["alan_character_unlock", ""],
 											["janitors_key", "angel_lamp"],
 											["subway_pass", "progressive_plot_(subway)"],
 											["memory_card", "room_665_key"],
